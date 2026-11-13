@@ -477,7 +477,7 @@ namespace monhex
                                 : e.ref.bank ? tr("Banco ") + std::to_string(e.ref.box + 1)
                                              : boxTitle(e.ref.box);
             where += " · " + std::to_string(e.ref.slot + 1);
-            mGfx.text("Nv. " + std::to_string(e.level), rx + rw - 200, y + (RESULT_ROW_H - mGfx.textHeight(17)) / 2, 17,
+            mGfx.text(tr("Nv. ") + std::to_string(e.level), rx + rw - 200, y + (RESULT_ROW_H - mGfx.textHeight(17)) / 2, 17,
                 theme::MUTED, Align::Right);
             mGfx.text(where, rx + rw - 14, y + (RESULT_ROW_H - mGfx.textHeight(17)) / 2, 17, theme::MUTED, Align::Right,
                 170);

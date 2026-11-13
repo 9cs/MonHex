@@ -665,7 +665,7 @@ namespace monhex
             mGfx.text(name, tx, r.y + 20, 24, theme::TEXT, Align::Left, r.x + r.w - tx - 34);
             if (!pk->egg())
             {
-                mGfx.text("Nv. " + std::to_string(pk->level()), tx, r.y + 56, 19, theme::MUTED);
+                mGfx.text(tr("Nv. ") + std::to_string(pk->level()), tx, r.y + 56, 19, theme::MUTED);
                 typeBadges(mGfx, u8(pk->type1()), u8(pk->type2()), tx, r.y + 88, 26, 14, r.x + r.w - 12 - tx);
                 if (shiny)
                     drawShinyMark(r.x + r.w - 24, r.y + 24, 24);
@@ -748,7 +748,7 @@ namespace monhex
         }
         if (shiny)
             drawShinyMark(nx + 24, y + 40, 26);
-        std::string line = "Nv. " + std::to_string(pk->level());
+        std::string line = tr("Nv. ") + std::to_string(pk->level());
         if (pk->nicknamed())
             line = i18n::species(LANG, pk->species()) + "  ·  " + line;
         mGfx.text(line, tx, y + 60, 19, theme::MUTED, Align::Left, tw);
@@ -1181,7 +1181,7 @@ namespace monhex
         }
         if (shiny)
             drawShinyMark(nx + 26, ly + 20, 30);
-        mGfx.text(i18n::species(LANG, pk->species()) + "  ·  Nv. " + std::to_string(pk->level()), lx, ly + 42,
+        mGfx.text(i18n::species(LANG, pk->species()) + "  ·  " + tr("Nv. ") + std::to_string(pk->level()), lx, ly + 42,
             20, theme::MUTED, Align::Left, SW);
         if (!pk->egg())
         {

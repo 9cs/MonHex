@@ -260,6 +260,7 @@ STRINGS = {
         "No hay suficientes espacios vacíos desde aquí.", "Pas assez d'emplacements vides à partir d'ici."),
     "Não testado": ("Untested", "Sin probar", "Non testé"),
     "Nível": ("Level", "Nivel", "Niveau"),
+    "Nv. ": ("Lv. ", "Nv. ", "N. "),
     "Nível máximo": ("Highest level", "Nivel máximo", "Niveau maximum"),
     "Nível mínimo": ("Lowest level", "Nivel mínimo", "Niveau minimum"),
     "Nível no encontro": ("Met level", "Nivel del encuentro", "Niveau de rencontre"),

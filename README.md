@@ -10,6 +10,27 @@ Built on [PKSM-Core](https://github.com/FlagBrew/PKSM-Core), libnx and SDL2.
 
 *Uma versão em português está no final deste arquivo.*
 
+<p align="center">
+  <img src="docs/screenshots/party.jpg" width="49%" alt="Party with summary">
+  <img src="docs/screenshots/details.jpg" width="49%" alt="Pokémon details">
+  <img src="docs/screenshots/editor.jpg" width="49%" alt="Pokémon editor">
+  <img src="docs/screenshots/bag.jpg" width="49%" alt="Bag">
+</p>
+
+<details>
+<summary>More screenshots</summary>
+<p align="center">
+  <img src="docs/screenshots/games.jpg" width="49%" alt="Game selection">
+  <img src="docs/screenshots/new-pokemon.jpg" width="49%" alt="Create a Pokémon">
+  <img src="docs/screenshots/options.jpg" width="49%" alt="Pokémon options">
+  <img src="docs/screenshots/multi-select.jpg" width="49%" alt="Several Pokémon marked">
+  <img src="docs/screenshots/box-menu.jpg" width="49%" alt="Empty slot menu">
+  <img src="docs/screenshots/bank.jpg" width="49%" alt="Bank">
+  <img src="docs/screenshots/settings.jpg" width="49%" alt="Settings">
+  <img src="docs/screenshots/backups.jpg" width="49%" alt="Backups">
+</p>
+</details>
+
 ## Features
 
 - **Boxes, party and bank** with box sprites, a summary panel and a detail view (IV/EV chart, stats, moves).
