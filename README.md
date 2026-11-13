@@ -31,6 +31,8 @@ Built on [PKSM-Core](https://github.com/FlagBrew/PKSM-Core), libnx and SDL2.
 </p>
 </details>
 
+⭐ **Enjoying MonHex?** Give the repository a star! It's free, takes one click and helps more people find the project.
+
 ## Features
 
 - **Boxes, party and bank** with box sprites, a summary panel and a detail view (IV/EV chart, stats, moves).
@@ -133,3 +135,5 @@ MonHex é um editor de saves de Pokémon que roda no próprio Nintendo Switch, n
 - **Idioma:** o padrão é inglês. Mude em Configurações (botão − na lista de jogos) → Idioma.
 - **Arquivos:** tudo fica em `sdmc:/switch/monhex/` (backups, banco, Pokémon exportados, configurações).
 - **Atenção:** faça backup dos seus saves. Pokémon editados ou transferidos entre jogos não têm o rastreador do Pokémon HOME e podem ser detectados online.
+
+⭐ **Curtiu o MonHex?** Deixe uma estrela no repositório! É grátis, leva um clique e ajuda mais gente a encontrar o projeto.
