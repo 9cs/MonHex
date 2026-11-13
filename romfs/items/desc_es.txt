@@ -1,0 +1,1549 @@
+1|La Poké Ball definitiva. Atrapa cualquier Pokémon salvaje y no falla nunca.
+2|Poké Ball de rendimiento superior. Tiene un índice de éxito mayor al de la Super Ball.
+3|Poké Ball de alto rendimiento. Tiene un índice de éxito superior al de la Poké Ball.
+4|Dispositivo con diseño capsular que atrapa Pokémon salvajes. Se lanza como una bola contra el blanco.
+5|Poké Ball especial que se utilizaba en lugares como la Zona Safari de Kanto y el Gran Pantano de Sinnoh.
+6|Es algo distinta a las demás. Funciona especialmente bien con los Pokémon de tipo Agua y Bicho.
+7|Es algo distinta a las demás. Funciona especialmente bien con los Pokémon que viven bajo el agua.
+8|Es algo distinta a las demás. Funciona especialmente bien con los Pokémon salvajes de nivel bajo.
+9|Es algo distinta a las demás. Funciona especialmente bien con las especies de Pokémon ya capturadas.
+10|Una Poké Ball algo distinta que va mejorando su rendimiento con cada turno de combate.
+11|Acogedora Poké Ball que hace más amistosos a los Pokémon salvajes capturados.
+12|Es una Poké Ball algo singular que se creó para conmemorar algún acontecimiento.
+13|Es algo particular. Hace que sea más fácil capturar a los Pokémon salvajes por la noche o en lugares oscuros.
+14|Poké Ball curativa que restaura los PS y cura todos los problemas de estado de un Pokémon después de capturarlo.
+15|Una Poké Ball algo distinta que potencia el índice de captura si se usa al inicio de un encuentro con Pokémon salvajes.
+16|Es una Poké Ball bastante singular que se creó para conmemorar alguna ocasión especial.
+17|Medicina en espray que cura heridas y restaura 20 PS a un Pokémon.
+18|Medicina en espray que contrarresta los efectos del veneno en un Pokémon.
+19|Medicina en espray que cura las quemaduras a un Pokémon.
+20|Medicina en espray que descongela a un Pokémon.
+21|Medicina en espray que libera a un Pokémon de las garras del sueño.
+22|Medicina en espray que cura a un Pokémon paralizado.
+23|Medicina que restaura todos los PS y cura todos los problemas de estado de un Pokémon.
+24|Medicina en espray que cura heridas y restaura todos los PS de un Pokémon.
+25|Medicina en espray que cura heridas y restaura 120 PS de un Pokémon.
+26|Medicina en espray que cura heridas y restaura 60 PS de un Pokémon.
+27|Medicina en espray que cura todos los problemas de estado de un Pokémon.
+28|Medicina que revive a un Pokémon debilitado y le devuelve la mitad de sus PS.
+29|Medicina que revive a un Pokémon debilitado y le devuelve todos sus PS.
+30|Agua de alto contenido mineral que restaura 30 PS de un Pokémon.
+31|Chispeante bebida gaseosa que restaura 50 PS de un Pokémon.
+32|Bebida muy dulce que restaura 70 PS de un Pokémon.
+33|Leche de alto valor nutritivo que restaura 100 PS de un Pokémon.
+34|Polvo medicinal muy amargo que restaura 60 PS de un Pokémon.
+35|Raíz muy amarga que restaura 120 PS de un Pokémon.
+36|Polvos medicinales muy amargos que curan todos los problemas de estado de un Pokémon.
+37|Hierba muy amarga que reanima a un Pokémon debilitado y restaura todos sus PS.
+38|Restaura 10 PP del movimiento elegido de un Pokémon.
+39|Restaura completamente los PP del movimiento elegido de un Pokémon.
+40|Restaura 10 PP de todos los movimientos aprendidos por el Pokémon elegido.
+41|Restaura completamente los PP de todos los movimientos aprendidos por el Pokémon elegido.
+42|Dulce típico de Pueblo Lavacalda que cura todos los problemas de estado de un Pokémon.
+43|Zumo de bayas 100% natural que restaura 20 PS de un Pokémon.
+44|Reanima completamente a todos los Pokémon debilitados y restaura todos sus PS.
+45|Nutritiva bebida que potencia los PS de base de un Pokémon.
+46|Nutritiva bebida que potencia el Ataque de base de un Pokémon.
+47|Nutritiva bebida que potencia la Defensa de base de un Pokémon.
+48|Nutritiva bebida que potencia la Velocidad de base de un Pokémon.
+49|Nutritiva bebida que potencia el Ataque Especial de base de un Pokémon.
+50|Caramelo energético que sube a un Pokémon de nivel.
+51|Aumenta ligeramente los PP máximos del movimiento elegido de un Pokémon.
+52|Nutritiva bebida que aumenta la Defensa Especial de base de un Pokémon.
+53|Aumenta hasta el límite los PP máximos del movimiento elegido de un Pokémon.
+54|Especialidad de la Vieja Mansión. Cura todos los problemas de estado de un Pokémon.
+55|Evita que bajen las características del equipo Pokémon durante cinco turnos.
+56|Aumenta el índice de golpe crítico en combate. Solo se puede usar una vez y, al cambiar de Pokémon, el efecto desaparece.
+57|Aumenta mucho el Ataque en combate. Al cambiar de Pokémon, el efecto desaparece.
+58|Aumenta mucho la Defensa en combate. Al cambiar de Pokémon, el efecto desaparece.
+59|Aumenta mucho la Velocidad en combate. Al cambiar de Pokémon, el efecto desaparece.
+60|Aumenta mucho la Precisión en combate. Al cambiar de Pokémon, el efecto desaparece.
+61|Aumenta mucho el Ataque Especial en combate. Al cambiar de Pokémon, el efecto desaparece.
+62|Aumenta mucho la Defensa Especial en combate. Al cambiar de Pokémon, el efecto desaparece.
+63|Un muñeco que atrae a los Pokémon. Es útil para huir de un combate contra un Pokémon salvaje.
+64|Un objeto que atrae a los Pokémon. Es útil para huir de un combate contra un Pokémon salvaje.
+65|Una flauta de cristal azul cuyas notas despiertan a un Pokémon del sueño.
+66|Una flauta de cristal amarillo cuyas notas sacan a un Pokémon de la confusión.
+67|Una flauta de cristal rojo cuyas notas vuelven en sí a un Pokémon enamorado.
+68|Una flauta de cristal negro cuyas notas atraen a Pokémon salvajes más fuertes al lugar en el que se usa.
+69|Una flauta de cristal blanco cuyas notas atraen a Pokémon salvajes más débiles al lugar en el que se usa.
+70|Una sal muy fina que se encuentra en la Cueva Cardumen.
+71|Concha que se encuentra en la Cueva Cardumen.
+72|Un pequeño fragmento rojo. Parece formar parte de algún tipo de herramienta antigua.
+73|Un pequeño fragmento azul. Parece formar parte de algún tipo de herramienta antigua.
+74|Un pequeño fragmento amarillo. Parece formar parte de algún tipo de herramienta antigua.
+75|Un pequeño fragmento verde. Parece formar parte de algún tipo de herramienta antigua.
+76|Evita encuentros con Pokémon salvajes débiles durante más tiempo que un Repelente normal.
+77|Evita encuentros con Pokémon salvajes débiles durante más tiempo que un Superrepelente.
+78|Cuerda larga y resistente que sirve para huir de cuevas y sitios cerrados en general. Puede usarse tantas veces como se quiera.
+79|Evita encuentros con Pokémon salvajes débiles durante un corto período de tiempo.
+80|Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es roja como el núcleo del sol.
+81|Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es oscura como la noche.
+82|Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es amarilla con una marca naranja.
+83|Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Tiene grabado un rayo.
+84|Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es de color azul.
+85|Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Tiene grabada una hoja.
+86|Una pequeña seta que es poco común y bastante popular entre determinados grupos de gourmets.
+87|Una gran seta que es poco común y muy popular entre determinados grupos de gourmets.
+88|Brillante perla pequeña y plateada que no alcanza un buen precio en las tiendas.
+89|Brillante perla plateada de gran tamaño que puede venderse a buen precio en las tiendas.
+90|Bonita arena roja de tacto sedoso que no alcanza un buen precio en las tiendas.
+91|Fragmento de una bonita gema roja que puede venderse muy caro en las tiendas.
+92|Pepita de oro puro que desprende un brillo espectacular. Puede venderse a un precio muy alto en las tiendas.
+93|Una bella y rara escama con forma de corazón que más de uno apreciará si se la entregas.
+94|Miel de dulce aroma recolectada por los Pokémon, que no alcanza un buen precio en las tiendas.
+95|Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región.
+96|Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región.
+97|Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región.
+98|Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región.
+99|Fósil de un Pokémon prehistórico que vivía en el fondo del mar. Parece ser parte de una raíz.
+100|Fósil de un Pokémon prehistórico que vivía en el fondo del mar. Parece ser parte de una garra.
+101|Fósil de un Pokémon prehistórico que vivía en el fondo del mar. Parece ser un fragmento de concha marina.
+102|Fósil de un Pokémon prehistórico que vivía en el fondo del mar. Parece ser un fragmento de caparazón.
+103|Fragmento de ámbar que contiene información genética de un Pokémon prehistórico. Es de color amarillo.
+104|Fósil de un Pokémon prehistórico terrestre. Parece ser parte de una protección ósea del cuello.
+105|Fósil de un Pokémon prehistórico terrestre. Parece ser parte de una cabeza.
+106|Un hueso de gran valor para la arqueología Pokémon. Puede alcanzar un alto precio en las tiendas.
+107|Una piedra peculiar que hace evolucionar a algunos Pokémon. Tiene un brillo espectacular.
+108|Una piedra peculiar que hace evolucionar a algunos Pokémon. Es oscura como la noche.
+109|Una piedra peculiar que hace evolucionar a algunos Pokémon. Brilla como un lucero.
+110|Una piedra peculiar que hace evolucionar a algunos Pokémon. Tiene forma de huevo.
+111|Vital para impedir que una torre de piedra se derrumbe. A veces se oyen voces en su interior.
+112|Una esfera brillante que potencia los movimientos de tipo Dragón y Fantasma. Debe llevarla Giratina.
+113|Un aromático té de sabor ligeramente amargo que resulta ideal para aplacar la sed.
+115|El autógrafo del Teniente Surge, el Líder de Gimnasio de Ciudad Carmín. La dedicatoria reza: "Good luck!".
+116|Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Agua.
+117|Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Eléctrico.
+118|Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Fuego.
+119|Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Hielo.
+126|Una maleta muy ligera en la que puedes guardar ropa o accesorios para ti o tu Pokémon.
+134|Chocolatina de sabor dulce. Restaura 20 PS de un Pokémon.
+135|Una esfera brillante que potencia los movimientos de tipo Acero y Dragón. Debe llevarla Dialga.
+136|Una bonita esfera que potencia los movimientos de tipo Dragón y Agua. Debe llevarla Palkia.
+137|Carta para presentarse a alguien. Haz que la entregue un Pokémon.
+138|Carta para escribir sobre tus cosas favoritas. Haz que la entregue un Pokémon.
+139|Carta para invitar a un compañero. Haz que la entregue un Pokémon.
+140|Carta de agradecimiento. Haz que la entregue un Pokémon.
+141|Carta para preguntar a un compañero. Haz que la entregue un Pokémon.
+142|Carta para recomendar algo. Haz que la entregue un Pokémon.
+143|Carta para responder a un mensaje. Haz que la entregue un Pokémon.
+144|Carta con la imagen de un puente que se alza hacia el cielo. Haz que la entregue un Pokémon.
+145|Carta con la imagen de un puente levadizo de color rojo. Haz que la entregue un Pokémon.
+146|Carta con la imagen de un puente colgante de acero. Haz que la entregue un Pokémon.
+147|Carta con la imagen de un puente de ladrillos. Haz que la entregue un Pokémon.
+148|Carta con la imagen de un puente con varios arcos. Haz que la entregue un Pokémon.
+149|Los Pokémon pueden llevarla o usarla para recuperarse de la parálisis.
+150|Los Pokémon pueden llevarla o usarla para despertar del sueño.
+151|Los Pokémon pueden llevarla o usarla para curarse del envenenamiento.
+152|Los Pokémon pueden llevarla o usarla para curarse las quemaduras.
+153|Los Pokémon pueden llevarla o usarla para descongelarse.
+154|Los Pokémon pueden llevarla o usarla para restaurar 10 PP de un movimiento.
+155|Los Pokémon pueden llevarla o usarla para restaurar 10 PS.
+156|Los Pokémon pueden llevarla o usarla para librarse de la confusión.
+157|Los Pokémon pueden llevarla o usarla para recuperarse de problemas de estado.
+158|Los Pokémon pueden llevarla o usarla para restaurar algunos PS.
+159|Los Pokémon pueden llevarla o usarla para restaurar algunos PS. Su sabor puede causar confusión si no les gusta.
+160|Los Pokémon pueden llevarla o usarla para restaurar algunos PS. Su sabor puede causar confusión si no les gusta.
+161|Los Pokémon pueden llevarla o usarla para restaurar algunos PS. Su sabor puede causar confusión si no les gusta.
+162|Los Pokémon pueden llevarla o usarla para restaurar algunos PS. Su sabor puede causar confusión si no les gusta.
+163|Los Pokémon pueden llevarla o usarla para restaurar algunos PS. Su sabor puede causar confusión si no les gusta.
+164|Se utiliza en la producción de Pokécubos que potencian el carisma. Es de color rojizo y sabor picante.
+165|Se utiliza en la producción de Pokécubos que potencian la belleza. Es de color azulado y sabor seco.
+166|Se utiliza en la producción de Pokécubos que potencian la dulzura. Es de color rosa y sabor dulce.
+167|Se utiliza en la producción de Pokécubos que potencian el ingenio. Es de color verde y sabor amargo.
+168|Se utiliza en la producción de Pokécubos que potencian la dureza. Es de color amarillo y sabor ácido.
+169|Al usarla con un Pokémon, se gana su amistad, pero también reduce sus PS de base.
+170|Al usarla con un Pokémon, se gana su amistad, pero también reduce su Ataque de base.
+171|Al usarla con un Pokémon, se gana su amistad, pero también reduce su Defensa de base.
+172|Al usarla con un Pokémon, se gana su amistad, pero también reduce su Ataque Especial de base.
+173|Al usarla con un Pokémon, se gana su amistad, pero también reduce su Defensa Especial de base.
+174|Al usarla con un Pokémon, se gana su amistad, pero también reduce su Velocidad de base.
+175|Se utiliza en la producción de Pokécubos que potencian la belleza. Es una baya muy rara en otras regiones.
+176|Se utiliza en la producción de Pokécubos que potencian la dulzura. Es una baya muy rara en otras regiones.
+177|Se utiliza en la producción de Pokécubos que potencian el ingenio. Es una baya muy rara en otras regiones.
+178|Se utiliza en la producción de Pokécubos que potencian la dureza. Es una baya muy rara en otras regiones.
+179|Se utiliza en la producción de Pokécubos que potencian la dulzura. Es una baya muy rara en otras regiones.
+180|Se utiliza en la producción de Pokécubos que potencian la belleza. Es una baya muy rara en otras regiones.
+181|Se utiliza en la producción de Pokécubos que potencian el ingenio. Es una baya muy rara en otras regiones.
+182|Se utiliza en la producción de Pokécubos que potencian el ingenio. Es una baya muy rara en otras regiones.
+183|Se utiliza en la producción de Pokécubos que potencian la belleza. Es una baya muy rara en otras regiones.
+184|Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Fuego de un enemigo.
+185|Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Agua de un enemigo.
+186|Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Eléctrico de un enemigo.
+187|Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Planta de un enemigo.
+188|Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Hielo de un enemigo.
+189|Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Lucha de un enemigo.
+190|Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Veneno de un enemigo.
+191|Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Tierra de un enemigo.
+192|Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Volador de un enemigo.
+193|Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Psíquico de un enemigo.
+194|Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Bicho de un enemigo.
+195|Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Roca de un enemigo.
+196|Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Fantasma de un enemigo.
+197|Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Dragón de un enemigo.
+198|Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Siniestro de un enemigo.
+199|Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Acero de un enemigo.
+200|Si la lleva un Pokémon, debilita un ataque de tipo Normal de un enemigo.
+201|Si la lleva un Pokémon, le sube el Ataque en un momento de apuro.
+202|Si la lleva un Pokémon, le sube la Defensa en un momento de apuro.
+203|Si la lleva un Pokémon, le sube la Velocidad en un momento de apuro.
+204|Si la lleva un Pokémon, le sube el Ataque Especial en un momento de apuro.
+205|Si la lleva un Pokémon, le sube la Defensa Especial en un momento de apuro.
+206|Si la lleva un Pokémon, aumenta la probabilidad de dar un golpe crítico en un momento de apuro.
+207|Si la lleva un Pokémon, aumenta mucho una característica en un momento de apuro.
+208|Restaura los PS de un Pokémon si la lleva cuando le alcanza un ataque supereficaz.
+209|Cuando la lleva un Pokémon, le sube la precisión de un movimiento en un momento de apuro.
+210|El Pokémon que la lleva puede actuar en primer lugar una vez cuando se encuentra en un momento de apuro.
+211|Si la lleva un Pokémon cuando otro lanza un ataque físico, este último también recibe daño.
+212|Si la lleva un Pokémon cuando otro lanza un ataque especial, este último también recibe daño.
+213|Lanza un destello que baja la Precisión del enemigo. Debe llevarlo un Pokémon.
+214|Restaura cualquier característica reducida en combate. Solo se puede usar una vez. Debe llevarla un Pokémon.
+215|Sólido y pesado brazal que potencia aún más las características del Pokémon que lo lleva al subir de nivel, pero que reduce la Velocidad en combate.
+216|Al activar el dispositivo, todos los Pokémon de tu equipo ganan Puntos de Experiencia tras los combates, aunque no salgan a luchar.
+217|Garra ligera y afilada que permite que el Pokémon que la lleve ataque a veces el primero.
+218|Un cascabel con un tañido calmante que reconforta al Pokémon que lo lleva y lo vuelve más amistoso.
+219|El Pokémon que la lleva se libera del efecto de movimientos que restringen sus acciones. Solo puede usarse una vez.
+220|Aumenta la potencia de los ataques físicos del Pokémon que la lleva, pero solo le permite usar un movimiento.
+221|El Pokémon que la lleva puede amedrentar al Pokémon al que le inflige daño.
+222|Polvo de brillo argénteo que fortalece los ataques de tipo Bicho. Debe llevarlo un Pokémon.
+223|Si el Pokémon que la lleva lucha en un combate, duplica las ganancias.
+224|Si lo lleva el primer Pokémon del equipo, se reduce la probabilidad de que se acerquen Pokémon salvajes.
+225|Un orbe fantástico que debe llevar Latios o Latias. Potencia los movimientos de tipo Psíquico y Dragón.
+226|Tiene el brillo afilado de la plata y debe llevarlo Clamperl. Sube el Ataque Especial.
+227|Tiene un débil brillo rosado y debe llevarla Clamperl. Sube la Defensa Especial.
+228|Debe llevarla un Pokémon. Permite huir siempre de combates contra Pokémon salvajes.
+229|El Pokémon que lleva esta piedra mágica no evoluciona.
+230|El Pokémon que la lleva puede resistir un golpe que potencialmente lo dejaría K. O. y se queda con 1 PS.
+231|Es un huevo lleno de felicidad que te hace ganar Puntos de Experiencia extra en combate. Debe llevarlo un Pokémon.
+232|Su lente aumenta la probabilidad que tiene el Pokémon que lo lleva de conseguir un golpe crítico.
+233|Película metálica que fortalece los ataques de tipo Acero. Debe llevarlo un Pokémon.
+234|Este objeto restaura gradualmente durante el combate los PS del Pokémon que lo lleva.
+235|Una gruesa y resistente escama que pueden llevar los Pokémon de tipo Dragón cuando son capturados.
+236|Asombrosa esfera que debe llevar Pikachu y que aumenta su Ataque y su Ataque Especial.
+237|Debe llevarla un Pokémon. La suavidad de la arena fortalece los movimientos de tipo Tierra.
+238|Debe llevarla un Pokémon. La robustez de la piedra fortalece los movimientos de tipo Roca.
+239|Debe llevarla un Pokémon. La vitalidad de la semilla fortalece los movimientos de tipo Planta.
+240|Debe llevarlas un Pokémon. Fortalecen los movimientos de tipo Siniestro.
+241|Debe llevarlo un Pokémon. Aumenta la concentración y fortalece los movimientos de tipo Lucha.
+242|Debe llevarlo un Pokémon. Su potente magnetismo fortalece los movimientos de tipo Eléctrico.
+243|Gema con forma de gota de agua que fortalece los movimientos de tipo Agua. Debe llevarla un Pokémon.
+244|Pico largo y afilado que aumenta la potencia de los movimientos de tipo Volador. Debe llevarlo un Pokémon.
+245|Flecha venenosa que refuerza los movimientos de tipo Veneno. Debe llevarla un Pokémon.
+246|Fragmento de hielo que repele el calor y fortalece los movimientos de tipo Hielo. Debe llevarlo un Pokémon.
+247|Misterioso y siniestro objeto que potencia los movimientos de tipo Fantasma. Debe llevarlo un Pokémon.
+248|Cuchara imbuida de energía telequinética que potencia los movimientos de tipo Psíquico. Debe llevarla un Pokémon.
+249|Actúa como combustible y potencia los movimientos de tipo Fuego. Debe llevarlo un Pokémon.
+250|Colmillo de gran dureza que refuerza los movimientos de tipo Dragón. Debe llevarlo un Pokémon.
+251|La delicadeza del pañuelo fortalece los movimientos de tipo Normal. Debe llevarlo un Pokémon.
+252|Peculiar dispositivo fabricado en Silph S. A. que contiene todo tipo de datos.
+253|Debe llevarlo un Pokémon. Cada vez que este inflige daño, recupera algunos PS.
+254|Tiene un curioso aroma que potencia los movimientos de tipo Agua. Debe llevarlo un Pokémon.
+255|Debe llevarlo un Pokémon. Su peculiar aroma reduce la Precisión del objetivo.
+256|Un par de guantes que debe llevar Chansey. Potencian mucho su índice de golpe crítico.
+257|Debe llevarlo Ditto. Es un polvo muy fino, pero a la vez poderoso, que aumenta su Defensa.
+258|Un extraño tipo de hueso que potencia los ataques físicos de Cubone y Marowak cuando lo llevan.
+259|Es un puerro muy largo que debe llevar Farfetch’d. Aumenta mucho la probabilidad de que logre un golpe crítico.
+260|Debe llevarlo un Pokémon. Aumenta el carisma en los concursos.
+261|Debe llevarlo un Pokémon. Aumenta la belleza en los concursos.
+262|Debe llevarlo un Pokémon. Aumenta la dulzura en los concursos.
+263|Debe llevarlo un Pokémon. Aumenta el ingenio en los concursos.
+264|Debe llevarlo un Pokémon. Aumenta la dureza en los concursos.
+265|Debe llevarla un Pokémon. Aumenta ligeramente la precisión de los movimientos.
+266|Cinta del pelo que aumenta ligeramente la potencia de los ataques físicos. Debe llevarla un Pokémon.
+267|Potencian ligeramente los ataques especiales. Debe llevarlas un Pokémon.
+268|Potencia ligeramente los movimientos supereficaces. Debe llevarla un Pokémon.
+269|Prolonga la duración de barreras como las creadas por Reflejo y Pantalla de Luz. Debe llevarla un Pokémon.
+270|Potencia los movimientos, pero consume PS con cada ataque. Debe llevarla un Pokémon.
+271|Permite el uso inmediato de cualquier movimiento en el primer turno. Es de un solo uso y debe llevarla un Pokémon.
+272|Extraña esfera que envenena gravemente al Pokémon que la lleva en combate.
+273|Extraña esfera que causa quemaduras al Pokémon que la lleva en combate.
+274|Debe llevarlo Ditto. Es un polvo muy fino, pero a la vez poderoso, que aumenta su Velocidad.
+275|Si el Pokémon que la lleva tiene los PS al máximo, puede resistir un golpe que lo dejaría K. O. y se queda con 1 PS.
+276|Debe llevarlo un Pokémon. Si se mueve después del enemigo, aumenta la Precisión del Pokémon.
+277|Potencia un movimiento que se use de forma consecutiva. Pero el efecto se pierde si se emplea otro movimiento.
+278|Reduce la Velocidad. Los Pokémon que levitan y los de tipo Volador se tornan sensibles a movimientos de tipo Tierra.
+279|Es muy pesada y hace que el Pokémon que la lleva se mueva más lento de lo normal.
+280|Un hilo largo y delgado de color rojo que transmite el enamoramiento del Pokémon que lo lleva a su objetivo.
+281|Si lo lleva un Pokémon de tipo Veneno, restaura gradualmente sus PS durante el combate. Si es de otro tipo, sus PS se reducirán.
+282|Prolonga la duración del movimiento Granizo que use el Pokémon que la lleva.
+283|Prolonga la duración del movimiento Tormenta de Arena que use el Pokémon que la lleva.
+284|Prolonga la duración del movimiento Día Soleado que use el Pokémon que la lleva.
+285|Prolonga la duración del movimiento Danza Lluvia que use el Pokémon que la lleva.
+286|Prolonga la duración de ataques multiturno como Atadura y Constricción si la lleva un Pokémon.
+287|Debe llevarlo un Pokémon. Potencia la Velocidad, pero solo permite usar un movimiento.
+288|Daña en cada turno al Pokémon que la lleva. Puede adherirse al Pokémon que alcance con su ataque al portador.
+289|Potencia el Ataque de base, pero reduce la Velocidad en combate. Debe llevarlo un Pokémon.
+290|Potencia la Defensa de base, pero reduce la Velocidad en combate. Debe llevarlo un Pokémon.
+291|Potencia el Ataque Especial de base, pero reduce la Velocidad en combate. Debe llevarla un Pokémon.
+292|Potencia la Defensa Especial de base, pero reduce la Velocidad en combate. Debe llevarla un Pokémon.
+293|Potencia la Velocidad de base, pero reduce la Velocidad en combate. Debe llevarla un Pokémon.
+294|Mejora los PS de base, pero reduce la Velocidad en combate. Debe llevarla un Pokémon.
+295|En combate, esta concha desechada permite que el portador siempre pueda cambiarse por otro Pokémon que no esté combatiendo.
+296|El Pokémon que la lleva recupera más PS al usar movimientos que drenan al objetivo.
+297|Aumentan la potencia de los ataques especiales del Pokémon que las lleva, pero solo le permiten usar un movimiento.
+298|Tabla de piedra que potencia los movimientos de tipo Fuego. Debe llevarla un Pokémon.
+299|Tabla de piedra que potencia los movimientos de tipo Agua. Debe llevarla un Pokémon.
+300|Tabla de piedra que potencia los movimientos de tipo Eléctrico. Debe llevarla un Pokémon.
+301|Tabla de piedra que potencia los movimientos de tipo Planta. Debe llevarla un Pokémon.
+302|Tabla de piedra que potencia los movimientos de tipo Hielo. Debe llevarla un Pokémon.
+303|Tabla de piedra que potencia los movimientos de tipo Lucha. Debe llevarla un Pokémon.
+304|Tabla de piedra que potencia los movimientos de tipo Veneno. Debe llevarla un Pokémon.
+305|Tabla de piedra que potencia los movimientos de tipo Tierra. Debe llevarla un Pokémon.
+306|Tabla de piedra que potencia los movimientos de tipo Volador. Debe llevarla un Pokémon.
+307|Tabla de piedra que potencia los movimientos de tipo Psíquico. Debe llevarla un Pokémon.
+308|Tabla de piedra que potencia los movimientos de tipo Bicho. Debe llevarla un Pokémon.
+309|Tabla de piedra que potencia los movimientos de tipo Roca. Debe llevarla un Pokémon.
+310|Tabla de piedra que potencia los movimientos de tipo Fantasma. Debe llevarla un Pokémon.
+311|Tabla de piedra que potencia los movimientos de tipo Dragón. Debe llevarla un Pokémon.
+312|Tabla de piedra que potencia los movimientos de tipo Siniestro. Debe llevarla un Pokémon.
+313|Tabla de piedra que potencia los movimientos de tipo Acero. Debe llevarla un Pokémon.
+314|Incienso de exótico aroma que fortalece los movimientos de tipo Psíquico. Debe llevarlo un Pokémon.
+315|Incienso de exótico aroma que fortalece los movimientos de tipo Roca. Debe llevarlo un Pokémon.
+316|Incienso de exótico aroma que hace que el Pokémon que lo lleve esté aturdido y se mueva más despacio.
+317|Tiene un curioso aroma que potencia los movimientos de tipo Agua. Debe llevarlo un Pokémon.
+318|Incienso de exótico aroma que fortalece los movimientos de tipo Planta. Debe llevarlo un Pokémon.
+319|Si el Pokémon que lo lleva lucha en un combate, duplica las ganancias.
+320|Si lo lleva el primer Pokémon del equipo, se reduce la probabilidad de que se acerquen Pokémon salvajes.
+321|Dispositivo de protección muy pesado. Cierto Pokémon lo adora.
+322|Este dispositivo contiene una gran cantidad de energía eléctrica. Cierto Pokémon lo adora.
+323|Esta caja contiene una enorme cantidad de energía magmática. Cierto Pokémon la adora.
+324|Dispositivo transparente que contiene datos misteriosos. Es de fabricante desconocido.
+325|Tela imbuida de una energía espiritual muy potente. Cierto Pokémon la adora.
+326|Aumenta la probabilidad de que el Pokémon que la lleve consiga un golpe crítico.
+327|Si lo lleva un Pokémon, puede amedrentar al objetivo al infligirle daño.
+328|Patada de extrema fuerza.
+329|Arroja monedas al objetivo y las recupera al final del combate.
+330|Puñetazo ardiente que puede causar quemaduras.
+331|Puñetazo helado que puede llegar a congelar.
+332|Puñetazo eléctrico que puede paralizar al adversario.
+333|El usuario vuela en el primer turno y ataca en el segundo.
+334|Lanza finas púas que hieren de dos a cinco veces.
+335|Es eficaz, pero el atacante deberá descansar en el siguiente turno.
+336|El usuario carga contra el objetivo con toda la fuerza que tiene y descansa durante el siguiente turno.
+337|Esparce extrañas hojas que persiguen al objetivo. No se puede esquivar.
+338|El usuario absorbe luz en el primer turno y en el segundo lanza un potente rayo de energía.
+339|El usuario dedica un turno a absorber energía lumínica y concentrarla en forma de cuchilla con la que ataca al rival en el siguiente turno.
+340|Un aro de fuego que atrapa al objetivo de cuatro a cinco turnos.
+341|Una ligera descarga que paraliza al objetivo si lo alcanza.
+342|El usuario cava durante el primer turno y ataca en el segundo.
+343|Alarido agudo que reduce mucho la Defensa del objetivo.
+344|Pared de luz que reduce durante cinco turnos el daño producido por los ataques especiales.
+345|Pared de luz que reduce durante cinco turnos el daño producido por los ataques físicos.
+346|Un escudo que protege de problemas de estado, como el sueño o la parálisis, durante cinco turnos.
+347|El atacante explota y hiere a todos a su alrededor. El usuario se debilita de inmediato.
+348|Restaura todos los PS y cura todos los problemas de estado del usuario, que se duerme los dos turnos siguientes.
+349|Lanza grandes pedruscos. Puede amedrentar al objetivo.
+350|El agresor ataca y le quita el objeto al objetivo siempre y cuando no lleve ninguno.
+351|Fuerte ronquido que solo puede usarse dormido. Puede amedrentar al objetivo.
+352|Frena todos los ataques, pero puede fallar si se usa repetidamente.
+353|Asusta al objetivo para reducir mucho su Velocidad.
+354|Ataque con aire helado que baja la Velocidad de los rivales.
+355|Un ataque que absorbe nutrientes. Quien lo usa recupera la mitad de los PS del daño que produce.
+356|Engatusa al objetivo y reduce mucho su Ataque.
+357|Alas macizas que golpean al objetivo y pueden subir la Defensa del usuario.
+358|Si el objetivo es del sexo opuesto, se enamorará y bajará la posibilidad de que ataque.
+359|Tormenta de arena que dura cinco turnos y hiere a todos, excepto a los de tipo Roca, Tierra y Acero, y aumenta la Defensa Especial de los de tipo Roca.
+360|Genera una fuerte lluvia que refuerza los movimientos de tipo Agua durante cinco turnos y debilita los de tipo Fuego.
+361|Hace que se intensifique el efecto del sol durante cinco turnos, lo que potencia los movimientos de tipo Fuego y debilita los de tipo Agua.
+362|Tormenta de granizo que dura cinco turnos. Hiere a todos los Pokémon excepto a los de tipo Hielo.
+363|Una tromba de agua atrapa al objetivo durante cuatro o cinco turnos.
+364|Ataque de todo el equipo Pokémon. Cuantos más haya, más veces se atacará.
+365|Siniestra llama morada que produce quemaduras.
+366|Si el usuario está quemado, paralizado o envenenado, ataca con el doble de potencia.
+367|Lanza rayos en forma de estrella que no fallan nunca.
+368|El usuario ayuda a un aliado reforzando la potencia de su ataque.
+369|Ataque que produce el doble de daño si el usuario resulta herido en el mismo turno.
+370|Potente ataque que también es capaz de destruir barreras como Pantalla de Luz y Reflejo.
+371|Impide a los contrincantes usar ataques conocidos por el usuario durante el combate.
+372|El usuario se sumerge en el primer turno y ataca en el segundo.
+373|El tipo y fuerza del ataque varían según el tiempo que haga.
+374|Lágrimas de cocodrilo que bajan mucho la Defensa Especial del objetivo.
+375|Tira rocas que detienen al objetivo y bajan su Velocidad.
+376|Enreda al objetivo en un remolino de arena de cuatro a cinco turnos.
+377|Dispara rápido de dos a cinco ráfagas de semillas de manera consecutiva.
+378|Ataca lanzando de dos a cinco ráfagas consecutivas de carámbanos.
+379|El usuario bota en el primer turno y golpea al objetivo en el segundo y puede llegar a paralizarlo.
+380|El usuario lanza lodo al objetivo y reduce su Velocidad.
+381|Lanza pedruscos al objetivo de dos a cinco veces consecutivas.
+382|Si al objetivo le queda la mitad o menos de sus PS, el ataque será el doble de fuerte.
+383|Tras atacar, el usuario vuelve a toda prisa para dar paso a otro Pokémon del equipo.
+384|El usuario contraataca con el doble de fuerza si el objetivo usa un movimiento antes.
+385|Si el objetivo ya ha sufrido daño en ese turno, la fuerza del ataque se duplica.
+386|El usuario lanza contra el objetivo el objeto que lleva. La fuerza del ataque y su efecto varían según el objeto.
+387|El usuario emplea su poder mental para intercambiar los cambios en el Ataque y Ataque Especial con el objetivo.
+388|El usuario emplea su poder mental para intercambiar los cambios en la Defensa y Defensa Especial con el objetivo.
+389|Intercambia su Velocidad por la del oponente.
+390|Un golpe que drena energía. El Pokémon recupera la mitad de los PS arrebatados al objetivo.
+391|Este ataque inflige el doble de daño a un objetivo que haya golpeado al usuario en ese mismo turno.
+392|Ataca con una garra afilada hecha de sombras. Suele ser crítico.
+393|El usuario muerde al objetivo con colmillos electrificados y puede hacer que se amedrente o se paralice.
+394|El usuario muerde al objetivo con colmillos helados y puede hacer que se amedrente o se congele.
+395|El usuario muerde al objetivo con colmillos en llamas y puede hacer que se amedrente o sufra quemaduras.
+396|Ataca al objetivo con cuchillas formadas por energía psíquica. Suele ser crítico.
+397|Crea un espacio extraño en el que los Pokémon lentos se mueven primero durante cinco turnos.
+398|Crea una zona misteriosa donde se intercambian la Defensa y la Defensa Especial de todos los Pokémon durante cinco turnos.
+399|Crea un espacio misterioso que inutiliza todos los objetos de los Pokémon durante cinco turnos.
+400|Tajo que puede envenenar al objetivo. Suele ser crítico.
+401|Cubre al objetivo con un líquido venenoso. El daño será doble si este ya está envenenado.
+402|Ataque rápido dirigido a los pies del objetivo que le hace perder Velocidad.
+403|Un canto que ataca al objetivo. Cuantos más Pokémon lo usan, más aumenta de potencia.
+404|Ataque que causa un gran daño a los objetivos que sufren problemas de estado.
+405|Golpea ágilmente. Si el usuario no porta ningún objeto, el objetivo resulta seriamente dañado.
+406|Venga a los amigos caídos. Si en el turno anterior han derrotado a alguno, la potencia del ataque aumentará.
+407|Tras atacar, el usuario vuelve a toda prisa para dar paso a otro Pokémon del equipo.
+408|Sacudida sísmica que afecta a los demás Pokémon adyacentes y también reduce su Velocidad.
+409|Atrapa y ataca a los objetivos con una telaraña eléctrica. También reduce su Velocidad.
+410|Una afilada vieira ataca al objetivo. También puede hacer disminuir su Defensa.
+411|Golpea con la cola de dos a cinco veces seguidas.
+412|Chillido desagradable que baja el Ataque Especial del rival.
+413|El usuario desaparece en el primer turno y ataca a su objetivo en el segundo. Permite acertar aunque el objetivo esté protegiéndose.
+414|El usuario absorbe PS del objetivo con un beso y restaura su propia energía en una cantidad igual o superior a la mitad del daño infligido.
+415|Durante cinco turnos, se potencian los movimientos de tipo Planta y los Pokémon que están en contacto con el suelo recuperan PS en cada turno.
+416|Durante cinco turnos, los Pokémon que están en el suelo no sufren problemas de estado y se reduce a la mitad el daño de los movimientos de tipo Dragón.
+417|Durante cinco turnos, se potencian los movimientos de tipo Eléctrico y los Pokémon que están en contacto con el suelo no pueden quedarse dormidos.
+418|Durante cinco turnos, se potencian los movimientos de tipo Psíquico y los Pokémon que están en el suelo quedan protegidos contra movimientos con prioridad.
+419|El usuario lanza por la boca una singular llama a gran temperatura con la que ataca a su oponente y baja su Ataque Especial.
+420|- - -
+421|- - -
+422|- - -
+423|- - -
+424|- - -
+425|- - -
+426|Ataca sumergiéndose en el agua en el primer turno y emergiendo violentamente en el segundo.
+428|Una saca donde guardar los objetos útiles para la exploración. Permite acceder al Subsuelo.
+429|Una saca grande y resistente utilizada para transportar el botín reunido en la mina de carbón.
+430|Recoge las normas de los combates. En los combates en conexión puedes elegir el conjunto de reglas que quieres usar.
+431|Busca Pokémon que se esconden en la hierba. La batería se recarga mientras caminas.
+432|Una tarjeta en la que se registran los Puntos de Batalla que has ganado.
+433|Un cuaderno en el que se recogen, día a día, los progresos de tu aventura.
+434|Caja en la que se pueden guardar los sellos que se aplican a las cápsulas de las Poké Balls.
+435|Una bonita cajita donde guardar todos los Complementos para vestir a tus Pokémon en el Teatro Musical.
+436|Bolsita con capacidad para diez sellos de los que decoran las Poké Balls.
+437|Un cuaderno muy práctico en el que puedes registrar amigos, claves de amigo, etc.
+438|Abre la puerta de la Central del Valle Eólico. La llevaba un Recluta del Equipo Galaxia.
+439|Está hecho con huesos de Pokémon y trae buena suerte. Hay que llevárselo a la anciana de Pueblo Caelestis.
+440|Desactiva los sistemas de seguridad de la Base Galaxia. Por lo visto, perder esta tarjeta se castiga severamente.
+441|Se dice que esta cadena mística está relacionada con el Pokémon legendario que creó la región de Sinnoh.
+442|Un mapa muy útil que puede consultarse en cualquier momento y que, además, te indica dónde te encuentras.
+443|Dispositivo que busca Entrenadores listos para el combate. La batería se carga mientras caminas.
+444|Puedes obtenerlo en la Sala de Juegos. Tiene capacidad para 50 000 fichas.
+445|Caña de pescar bastante usada y desgastada. Pesca Pokémon salvajes en todo tipo de aguas.
+446|Caña de pescar nuevecita y de gran calidad. Pesca Pokémon salvajes en todo tipo de aguas.
+447|Increíble caña de pescar de alta tecnología. Pesca Pokémon salvajes en todo tipo de aguas.
+448|Una regadera con forma de Psyduck. Ayuda a que las bayas plantadas en suelo fértil crezcan mejor.
+449|Caja en la que se transportan los Pokochos elaborados con bayas.
+450|Bicicleta plegable con la que se va más rápido que corriendo.
+451|Llave de una suite del hotel de lujo junto al lago. Por algún motivo, se pierde a menudo.
+452|Carta del Profesor Oak en la que se te pide que vayas a la Ruta 224.
+453|Pluma que brilla como la luna. Se dice que tiene el poder de disipar pesadillas.
+454|Necesario para entrar en la posada de Ciudad Canal. Es extraño, pero la última fecha registrada es de hace 50 años.
+455|Emite sonidos que no parecen de este mundo. Es de fabricante desconocido.
+456|Es el billete válido para embarcar en el Ferry S.S. Aqua. Tiene dibujado un barco.
+457|Es necesario para participar en Concursos Pokémon. Tiene una cinta de ganador dibujada.
+458|Formada a partir de magma enfriado y endurecido. Aún hay magma líquido en su interior.
+459|Paquete encomendado a tu cuidado que tienes que entregar a tu amigo de la infancia que dejó Pueblo Hojaverde.
+460|Uno de los tres cupones que sirve para obtener un Poké-reloj.
+461|Uno de los tres cupones que sirve para obtener un Poké-reloj.
+462|Uno de los tres cupones que sirve para obtener un Poké-reloj.
+463|Llave del siniestro almacén del Equipo Galaxia que está ubicado en las afueras de Ciudad Rocavelo.
+464|Fantástico medicamento vendido en la farmacia de Ciudad Orquídea. Cura completamente a un Pokémon.
+465|Un fantástico dispositivo que graba combates entre amigos o celebrados en algún recinto especial.
+466|Una flor que se suele regalar en ramos para expresar agradecimiento en ocasiones especiales, como cumpleaños.
+467|Una llave de alta tecnología que debe usarse en un lugar concreto. Emite una señal eléctrica que abre una puerta.
+468|Práctico recipiente que puede almacenar hasta 99 Bonguri de cada especie.
+469|Bloc que almacena la información de los Unown capturados hasta el momento.
+470|Dispositivo portátil de cultivo que permite plantar bayas en cualquier momento de forma sencilla.
+471|Aparato de precisión que reacciona ante objetos que no se ven. Para usarlo, es necesario colocárselo en la cabeza.
+472|Tarjeta para conseguir puntos con el programa de radio Las contraseñas de Buena.
+473|Sabrosa cola de origen desconocido. Se puede comprar a un precio muy elevado.
+474|Cascabel de aspecto antiguo que emite un sonido que calma el espíritu.
+475|Llave con forma de tarjeta que abre las puertas de la Torre Radio.
+476|Llave que abre la puerta que hay en el Túnel Trigal.
+477|Objeto que contiene agua y se usa para regar las bayas del Plantabayas.
+478|Escama del Gyarados aparecido en el Lago de la Furia. Es de un rojo tan intenso como las llamas.
+479|El muñeco Mime Jr. que perdió la Copiona.
+480|Billete necesario para poder montar todas las veces que se desee en el Magnetotrén.
+481|Valiosa pieza robada de una máquina de la Central Energía.
+482|Misteriosa ala de un brillante color plateado.
+483|Misteriosa ala de un brillante color arcoíris.
+484|Misterioso Huevo con dibujos que obtienes del Sr. Pokémon. Nadie sabe qué contiene.
+485|Bonguri de color rojo y aroma muy penetrante.
+486|Bonguri de color azul y aroma tierno.
+487|Bonguri de color amarillo y aroma refrescante.
+488|Bonguri de color verde y aroma peculiar que recuerda al café tostado.
+489|Bonguri de color rosa y aroma dulce.
+490|Bonguri de color blanco que no desprende aroma alguno.
+491|Bonguri de color negro y aroma indescriptible.
+492|Poké Ball algo distinta, especialmente indicada para capturar Pokémon evasivos.
+493|Poké Ball algo distinta que funciona especialmente bien con Pokémon de nivel inferior a los que se posee.
+494|Poké Ball algo distinta, especialmente indicada para capturar los Pokémon que se han pescado con una caña.
+495|Poké Ball algo distinta que funciona especialmente bien a la hora de atrapar Pokémon de mucho peso.
+496|Poké Ball algo distinta que atrapa mejor Pokémon de la misma especie que los que se posee, pero de sexo diferente.
+497|Poké Ball algo distinta que hace más amistosos a los Pokémon salvajes que se capturan con ella.
+498|Poké Ball algo distinta que atrapa con más facilidad los Pokémon que evolucionan con la Piedra Lunar.
+499|Poké Ball especial que se utilizaba en el Concurso de Captura de Bichos de la región de Johto.
+500|Poké Ball que se utiliza dentro del Parque Compi.
+501|Álbum que recoge las fotos que se toman a lo largo de la aventura.
+502|Lector con el que se pueden escuchar aquellas canciones tan nostálgicas. Se cambia con un solo interruptor.
+503|Cascabel de aspecto antiguo que emite un sonido que calma el espíritu.
+504|Caramelo típico de Pueblo Caoba. Cura todos los problemas de estado de un Pokémon.
+505|Contiene los datos del Pokéathlon con el número de victorias.
+506|Contiene los datos del Pokéathlon con el número de veces que se ha quedado en último lugar.
+507|Contiene los datos del Pokéathlon con el número de sprints de los Pokémon.
+508|Contiene los datos del Pokéathlon con el número de saltos de los Pokémon.
+509|Contiene los datos del Pokéathlon con el número de victorias en Saltaobstáculos.
+510|Contiene los datos del Pokéathlon con el número de victorias en Carrera de Relevos.
+511|Contiene los datos del Pokéathlon con el número de victorias en Atrapabanderas.
+512|Contiene los datos del Pokéathlon con el número de victorias en Rompelosas.
+513|Contiene los datos del Pokéathlon con el número de victorias en Atrapadiscos.
+514|Contiene los datos del Pokéathlon con el número de victorias en Nieve Cruzada.
+515|Contiene los datos del Pokéathlon con el número de puntos conseguidos.
+516|Contiene los datos del Pokéathlon con el número de derrotas.
+517|Contiene los datos del Pokéathlon con el número de puntos perdidos por tus Pokémon.
+518|Contiene los datos del Pokéathlon con el número de placajes realizados.
+519|Contiene los datos del Pokéathlon con el número de caídas que han sufrido tus Pokémon.
+520|Contiene los datos del Pokéathlon con el número de victorias en Fuera del Ring.
+521|Contiene los datos del Pokéathlon con el número de victorias en Botaluces.
+522|Contiene los datos del Pokéathlon con el número de victorias en Pisacírculos.
+523|Contiene los datos del Pokéathlon con el número de victorias en conexión.
+524|Contiene los datos del Pokéathlon con el número de veces que se ha quedado en último lugar en conexión.
+525|Contiene los datos del Pokéathlon con el número de victorias en una disciplina.
+526|Contiene los datos del Pokéathlon con el número de veces que se ha terminado en última posición en una disciplina.
+527|Contiene los datos del Pokéathlon con el número de veces que se ha cambiado de Pokémon.
+528|Contiene los datos del Pokéathlon con el número de victorias en Metegoles.
+529|Contiene los datos del Pokéathlon con el número de premios individuales.
+530|Contiene los datos del Pokéathlon con el número de veces que se tocó con el lápiz a los Pokémon.
+531|Contiene los datos del Pokéathlon con el tiempo que se ha pasado en esta competición.
+532|Esfera glauca de la que se dice que guarda una estrecha relación con las leyendas de Hoenn.
+533|Una cápsula resistente que solo puede abrirse con una llave especial.
+534|Piedra carmesí de la que se dice que guarda una estrecha relación con las leyendas de Hoenn.
+535|Piedra añil que, según dicen, guarda una estrecha relación con las leyendas de Hoenn.
+536|Esfera cristalina encontrada bajo tierra. A pesar de estar cubierta de roca y tierra, su belleza es increíble.
+537|Curiosa escama que hace evolucionar a cierto Pokémon. Brilla con los colores del arcoíris.
+538|Roca misteriosa. El Pokémon portador aumentará su Defensa y su Defensa Especial si aún puede evolucionar.
+539|Piedra muy ligera que reduce el peso del Pokémon que la lleve.
+540|Si el portador es alcanzado por un movimiento de contacto, el agresor también recibe daño.
+541|El Pokémon que lo lleve flotará en el aire. Si recibe un golpe, estallará.
+542|Misteriosa tarjeta que permite al Pokémon que la lleva expulsar al oponente cuando este le cause daño.
+543|El Pokémon que lo lleva es vulnerable frente a movimientos que normalmente no afectan a su tipo.
+544|Banda que potencia los movimientos que estrujan al rival.
+545|Aumenta el Ataque Especial del portador si le alcanza un ataque de tipo Agua. Desaparece tras usarlo.
+546|Batería de usar y tirar que sube el Ataque de quien la lleva cuando recibe un golpe de tipo Eléctrico.
+547|Si el portador es alcanzado por un ataque, saldrá del combate y será sustituido por otro Pokémon del equipo.
+548|Joya de un solo uso que potencia los movimientos de tipo Fuego. Debe llevarla un Pokémon.
+549|Joya de un solo uso que potencia los movimientos de tipo Agua. Debe llevarla un Pokémon.
+550|Joya de un solo uso que potencia los movimientos de tipo Eléctrico. Debe llevarla un Pokémon.
+551|Joya de un solo uso que potencia los movimientos de tipo Planta. Debe llevarla un Pokémon.
+552|Joya de un solo uso que potencia los movimientos de tipo Hielo. Debe llevarla un Pokémon.
+553|Joya de un solo uso que potencia los movimientos de tipo Lucha. Debe llevarla un Pokémon.
+554|Joya de un solo uso que potencia los movimientos de tipo Veneno. Debe llevarla un Pokémon.
+555|Joya de un solo uso que potencia los movimientos de tipo Tierra. Debe llevarla un Pokémon.
+556|Joya de un solo uso que potencia los movimientos de tipo Volador. Debe llevarla un Pokémon.
+557|Joya de un solo uso que potencia los movimientos de tipo Psíquico. Debe llevarla un Pokémon.
+558|Joya de un solo uso que potencia los movimientos de tipo Bicho. Debe llevarla un Pokémon.
+559|Joya de un solo uso que potencia los movimientos de tipo Roca. Debe llevarla un Pokémon.
+560|Joya de un solo uso que potencia los movimientos de tipo Fantasma. Debe llevarla un Pokémon.
+561|Joya de un solo uso que potencia los movimientos de tipo Dragón. Debe llevarla un Pokémon.
+562|Joya de un solo uso que potencia los movimientos de tipo Siniestro. Debe llevarla un Pokémon.
+563|Joya de un solo uso que potencia los movimientos de tipo Acero. Debe llevarla un Pokémon.
+564|Joya de un solo uso que potencia los movimientos de tipo Normal. Debe llevarla un Pokémon.
+565|Pluma que aumenta un poco los PS de base de un Pokémon.
+566|Pluma que aumenta un poco el Ataque de base de un Pokémon.
+567|Pluma que aumenta un poco la Defensa de base de un Pokémon.
+568|Pluma que aumenta un poco el Ataque Especial de base de un Pokémon.
+569|Pluma que aumenta un poco la Defensa Especial de base de un Pokémon.
+570|Pluma que aumenta un poco la Velocidad de base de un Pokémon.
+571|Pluma normal y corriente. Muy bonita, pero no sirve para nada.
+572|Fósil de un Pokémon prehistórico que vivía en el fondo del mar. Parece ser un fragmento de caparazón.
+573|Fósil de un Pokémon prehistórico que surcaba los cielos. Parece ser parte de una de sus alas.
+574|Ticket especial para ir en barco desde Ciudad Porcelana a Isla Libertad.
+575|Esfera misteriosa que contiene el poder de la región de Teselia y se utiliza para generar Poderes Regalo.
+576|Es algo distinta a las demás. Funciona especialmente bien con los Pokémon dormidos.
+577|Un objeto que atrae a los Pokémon. Es útil para huir de un combate contra un Pokémon salvaje.
+578|Una bonita cajita donde guardar todos los Complementos para vestir a tus Pokémon en el Teatro Musical.
+579|Cráneo de un Pokémon. Se dice que este Pokémon cruzó mares embravecidos.
+580|Extraña seta que desprende un agradable aroma. Puede alcanzar un alto precio en las tiendas.
+581|Pepita grande de oro puro que desprende un brillo espectacular. Puede venderse a un precio muy alto en las tiendas.
+582|Brillantes perlas plateadas de gran tamaño que pueden venderse a buen precio en las tiendas.
+583|Fragmento de un cometa caído al suelo al atravesar la atmósfera. Se puede vender a buen precio en las tiendas.
+584|Moneda de cobre de más de 3000 años de antigüedad.
+585|Moneda de plata de más de 3000 años de antigüedad.
+586|Moneda de oro de más de 3000 años de antigüedad.
+587|Jarrón de más de 3000 años de antigüedad.
+588|Brazalete de más de 3000 años de antigüedad.
+589|Efigie de piedra de más de 3000 años de antigüedad.
+590|Corona de más de 3000 años de antigüedad.
+591|Especialidad de Ciudad Porcelana. Cura los problemas de estado de un Pokémon.
+592|Aumenta la probabilidad de asestar un golpe crítico. Al cambiar de Pokémon, el efecto desaparece.
+593|Aumenta ligeramente la Velocidad en combate. Al cambiar de Pokémon, el efecto desaparece.
+594|Aumenta ligeramente el Ataque Especial en combate. Al cambiar de Pokémon, el efecto desaparece.
+595|Aumenta ligeramente la Defensa Especial en combate. Al cambiar de Pokémon, el efecto desaparece.
+596|Aumenta ligeramente la Defensa en combate. Al cambiar de Pokémon, el efecto desaparece.
+597|Aumenta ligeramente el Ataque en combate. Al cambiar de Pokémon, el efecto desaparece.
+598|Aumenta ligeramente la Precisión en combate. Al cambiar de Pokémon, el efecto desaparece.
+599|Aumenta bastante la Velocidad en combate. Al cambiar de Pokémon, el efecto desaparece.
+600|Aumenta bastante el Ataque Especial en combate. Al cambiar de Pokémon, el efecto desaparece.
+601|Aumenta bastante la Defensa Especial en combate. Al cambiar de Pokémon, el efecto desaparece.
+602|Aumenta bastante la Defensa en combate. Al cambiar de Pokémon, el efecto desaparece.
+603|Aumenta bastante el Ataque en combate. Al cambiar de Pokémon, el efecto desaparece.
+604|Aumenta bastante la Precisión en combate. Al cambiar de Pokémon, el efecto desaparece.
+605|Aumenta mucho la Velocidad en combate. Al cambiar de Pokémon, el efecto desaparece.
+606|Aumenta mucho el Ataque Especial en combate. Al cambiar de Pokémon, el efecto desaparece.
+607|Aumenta mucho la Defensa Especial en combate. Al cambiar de Pokémon, el efecto desaparece.
+608|Aumenta mucho la Defensa en combate. Al cambiar de Pokémon, el efecto desaparece.
+609|Aumenta mucho el Ataque en combate. Al cambiar de Pokémon, el efecto desaparece.
+610|Aumenta mucho la Precisión en combate. Al cambiar de Pokémon, el efecto desaparece.
+611|Al usarlo, activa la habilidad de un Pokémon de tu equipo.
+612|Cuando se usa, un Pokémon de tu equipo pierde su objeto.
+613|Cuando se usa, un Pokémon de tu equipo utiliza su objeto inmediatamente.
+614|Cuando se usa, se anulan los cambios en las características de un Pokémon de tu equipo.
+615|Aumenta mucho la probabilidad de asestar un golpe crítico. Al cambiar de Pokémon, su efecto desaparece.
+616|Forma que adoptó Reshiram al perder su cuerpo. Espera la llegada de un nuevo héroe.
+617|Forma que adoptó Zekrom al perder su cuerpo. Espera la llegada de un nuevo héroe.
+618|El usuario irradia unas raras ondas que, al alcanzar a un oponente, hacen que disminuya mucho su Ataque Especial.
+619|Ataque moderado que no debilita al objetivo y le deja al menos 1 PS.
+620|Ataca con un viento afilado que incluso corta el aire. También puede amedrentar al objetivo.
+621|Comunicador de alta tecnología con cámara que permite hablar a cuatro personas a la vez.
+622|Este aparato permite recibir vídeos holográficos y visualizarlos en cualquier momento.
+623|Carta importante que entrega Wingull.
+624|Carta importante que entrega Wingull.
+625|Carta importante que entrega Wingull.
+626|Comunicador de alta tecnología con cámara que permite hablar a cuatro personas a la vez.
+627|Un dispositivo con forma de caja que almacena las insignias y la información relacionada.
+628|Punta que permite fusionar a Kyurem con cierto Pokémon con el que, originariamente, formaba un solo ser.
+629|Punta que permite separar a Kyurem del Pokémon con el que se ha fusionado.
+630|Permiso necesario para acceder a la Reserva Natural, lugar que solo unos pocos conocen.
+631|Misterioso amuleto ovalado que aumenta la posibilidad de encontrar Huevos en Cuidados Pokémon.
+632|Misterioso amuleto brillante que aumenta la probabilidad de encontrar Pokémon variocolor.
+633|Tarjeta necesaria para introducir la contraseña en la Fragata Plasma.
+634|Pañuelo perdido por un cliente habitual del Café Alma en Ciudad Esmalte. Desprende el olor de un Pokémon.
+635|Dispositivo que permite aumentar forzadamente las características de los Pokémon. Es un prototipo imperfecto.
+636|Videomisor encontrado en el parque de atracciones de Ciudad Mayólica. Parece que pertenece a un chico.
+637|Videomisor encontrado en el parque de atracciones de Ciudad Mayólica. Parece que pertenece a una chica.
+638|Espejo misterioso que refleja la verdad y devuelve los Pokémon a su forma original.
+639|Aumenta mucho el Ataque y el Ataque Especial cuando el Pokémon que lo lleva recibe un ataque frente al cual es débil.
+640|Chaleco que potencia la Defensa Especial del Pokémon que lo lleva, pero le impide lanzar movimientos de estado.
+641|Este aparato permite recibir vídeos holográficos y visualizarlos en cualquier momento.
+642|Una carta sutilmente perfumada que el Profesor Ciprés le ha escrito a tu madre.
+643|Ruedas que se acoplan a la suela del calzado y te permiten ir más rápido y realizar piruetas espectaculares.
+644|Tabla de piedra que potencia los movimientos de tipo Hada. Debe llevarla un Pokémon.
+645|Cápsula que les permite cambiar de habilidad a los Pokémon que poseen dos.
+646|Un dulce a base de suave y esponjosa nata montada. A cierto Pokémon le encanta.
+647|Un saquito lleno de sustancias aromáticas cuyo perfume resulta abrumador, pero que a cierto Pokémon le encanta.
+648|Objeto de un solo uso. Aumenta la Defensa Especial del Pokémon que lo lleva si este recibe un ataque de tipo Agua.
+649|Objeto de un solo uso. Aumenta el Ataque del Pokémon que lo lleva si este recibe un ataque de tipo Hielo.
+650|Gafa que protege de los efectos adversos del clima y del polvo lanzado por los rivales.
+651|Una flauta con un timbre tan dulce y hermoso que despierta hasta al Pokémon más profundamente dormido.
+652|Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región.
+653|Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región.
+654|Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región.
+655|Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región.
+656|Una de las misteriosas Megapiedras. Permite megaevolucionar a Gengar en combate.
+657|Una de las misteriosas Megapiedras. Permite megaevolucionar a Gardevoir en combate.
+658|Una de las misteriosas Megapiedras. Permite megaevolucionar a Ampharos en combate.
+659|Una de las misteriosas Megapiedras. Permite megaevolucionar a Venusaur en combate.
+660|Una de las misteriosas Megapiedras. Permite megaevolucionar a Charizard en combate.
+661|Una de las misteriosas Megapiedras. Permite megaevolucionar a Blastoise en combate.
+662|Una de las misteriosas Megapiedras. Permite megaevolucionar a Mewtwo en combate.
+663|Una de las misteriosas Megapiedras. Permite megaevolucionar a Mewtwo en combate.
+664|Una de las misteriosas Megapiedras. Permite megaevolucionar a Blaziken en combate.
+665|Una de las misteriosas Megapiedras. Permite megaevolucionar a Medicham en combate.
+666|Una de las misteriosas Megapiedras. Permite megaevolucionar a Houndoom en combate.
+667|Una de las misteriosas Megapiedras. Permite megaevolucionar a Aggron en combate.
+668|Una de las misteriosas Megapiedras. Permite megaevolucionar a Banette en combate.
+669|Una de las misteriosas Megapiedras. Permite megaevolucionar a Tyranitar en combate.
+670|Una de las misteriosas Megapiedras. Permite megaevolucionar a Scizor en combate.
+671|Una de las misteriosas Megapiedras. Permite megaevolucionar a Pinsir en combate.
+672|Una de las misteriosas Megapiedras. Permite megaevolucionar a Aerodactyl en combate.
+673|Una de las misteriosas Megapiedras. Permite megaevolucionar a Lucario en combate.
+674|Una de las misteriosas Megapiedras. Permite megaevolucionar a Abomasnow en combate.
+675|Una de las misteriosas Megapiedras. Permite megaevolucionar a Kangaskhan en combate.
+676|Una de las misteriosas Megapiedras. Permite megaevolucionar a Gyarados en combate.
+677|Una de las misteriosas Megapiedras. Permite megaevolucionar a Absol en combate.
+678|Una de las misteriosas Megapiedras. Permite megaevolucionar a Charizard en combate.
+679|Una de las misteriosas Megapiedras. Permite megaevolucionar a Alakazam en combate.
+680|Una de las misteriosas Megapiedras. Permite megaevolucionar a Heracross en combate.
+681|Una de las misteriosas Megapiedras. Permite megaevolucionar a Mawile en combate.
+682|Una de las misteriosas Megapiedras. Permite megaevolucionar a Manectric en combate.
+683|Una de las misteriosas Megapiedras. Permite megaevolucionar a Garchomp en combate.
+684|Una de las misteriosas Megapiedras. Permite megaevolucionar a Latias en combate.
+685|Una de las misteriosas Megapiedras. Permite megaevolucionar a Latios en combate.
+686|Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Hada de un enemigo.
+687|Si la lleva un Pokémon, aumenta su Defensa tras recibir un ataque físico.
+688|Si la lleva un Pokémon, aumenta su Defensa Especial tras recibir un ataque especial.
+689|Una regadera con forma de Lotad. Ayuda a que las bayas plantadas en suelo blandito crezcan mejor.
+690|El usuario ensarta al adversario con su afilada cornamenta. Este movimiento acierta siempre.
+691|Hace pivotar su cuerpo para causar daño a su alrededor.
+692|Usa la frustración como revulsivo para atacar. La potencia de Pataleta se duplica si el usuario ha fallado el último movimiento usado.
+693|El usuario sacude violentamente su enorme cola para golpear a todos los rivales y reducir su Ataque a la par.
+694|Hace que el objetivo pierda la concentración contándole un secreto. Disminuye el Ataque Especial del oponente.
+695|Documento de identificación necesario para acceder a la central eléctrica de la Ruta 13.
+696|Accesorio con un poder misterioso que permite megaevolucionar a Pokémon que lleven la Megapiedra adecuada.
+697|Una curiosa piedra que a algunos les puede parecer de gran valor.
+698|Una piedra de aspecto normal que a algunos les puede parecer de gran valor.
+699|Con este vale te harán jugosos descuentos cuando vayas de compras a una boutique.
+700|Tarjeta con el logotipo del Team Flare que activa el ascensor de los Laboratorios Lysson.
+701|Pase que permite realizar viajes ilimitados en el TMV que une las ciudades de Luminalia y Batik.
+702|Símbolo otorgado en reconocimiento a quienes han realizado gestas excepcionales en la región de Kalos.
+703|Pequeño dispositivo que va añadiendo y compilando de forma automática consejos y pistas útiles para la aventura de todo Entrenador.
+704|Ornamento que representa a un Pokémon misterioso venerado desde la antigüedad en Alola como espíritu protector.
+705|Estuche de aspecto sofisticado para llevar tus lentes de contacto.
+706|Neceser de aspecto sofisticado para guardar tus barras de labios.
+707|Maleta ligera de increíble capacidad donde podrás guardar todas las prendas de ropa que quieras.
+708|El dulce estrella de Ciudad Luminalia. Cura los problemas de estado de un Pokémon.
+709|Especialidad de Ciudad Yantra. Cura los problemas de estado de un Pokémon.
+710|Fósil de un Pokémon prehistórico terrestre. Parece ser parte de una mandíbula.
+711|Fósil de un Pokémon prehistórico terrestre. Parece la impresión de una aleta.
+712|Boleto hecho a mano por Handsome, decorado con una generosa cantidad de purpurina.
+713|Bicicleta plegable con la que se va más rápido que corriendo.
+714|Este aparato permite recibir vídeos holográficos y visualizarlos en cualquier momento.
+715|Joya de un solo uso que potencia los movimientos de tipo Hada. Debe llevarla un Pokémon.
+716|Amuleto con un poder misterioso que permite megaevolucionar a Pokémon que lleven la Megapiedra adecuada.
+717|Guante con un poder misterioso que permite megaevolucionar a Pokémon que lleven la Megapiedra adecuada.
+718|Bicicleta plegable que va a más del doble de velocidad que otras.
+719|Bicicleta plegable capaz de correr sobre una sola rueda, realizar saltos y otras acrobacias.
+720|Regadera con forma de Wailmer. Muy útil para que crezcan las bayas plantadas.
+721|Contiene piezas de algo fabricado por Devon S. A.
+722|Bolsa en la que recoger la ceniza de volcán sedimentada en el suelo.
+723|Llave que da acceso a Malvalanova, situada en los subterráneos de Ciudad Malvalona.
+724|Kit consistente en una Licuabayas para preparar Pokécubos a partir de bayas y un Tubo Pokécubos para guardarlos.
+725|Carta que te ha confiado el presidente de Devon S. A.
+726|Billete de barco para viajar a Isla del Sur. Es posible que Norman, Líder de Gimnasio de Ciudad Petalia, sepa algo al respecto.
+727|Objeto hallado en el interior de Malvamar.
+728|Gafas idóneas para protegerte los ojos de las tormentas de arena del desierto.
+729|Meteorito obtenido en el Monte Cenizo que antes se encontraba en la Cascada Meteoro.
+730|Llave de acceso a una de las habitaciones de Malvamar.
+731|Llave de acceso a una de las habitaciones de Malvamar.
+732|Llave de acceso a una de las habitaciones de Malvamar.
+733|Llave de acceso a una de las habitaciones de Malvamar.
+734|Llave de acceso al almacén de Malvamar.
+735|Artilugio creado por Devon S. A. que reacciona a la presencia de Pokémon invisibles emitiendo sonidos.
+736|Necesario para montar en barcos de línea regular.
+737|Ataca sumergiéndose en el agua en el primer turno y emergiendo violentamente en el segundo.
+738|Máscara que surte de oxígeno durante las inmersiones en el agua. Producto de Devon S. A.
+739|Traje de lo más espectacular para lucir en el Gran Concurso.
+740|Vestido de lo más espectacular para lucir en el Gran Concurso.
+741|Este traje es el resultado de las arduas investigaciones científicas del Equipo Magma. Es capaz de soportar cualquier impacto.
+742|Este traje es el resultado de las arduas investigaciones científicas del Equipo Aqua. Es capaz de soportar cualquier impacto.
+743|Pase de dos personas para asistir al espectáculo de astronomía que se celebra en el Centro Espacial de Algaria.
+744|Aro con un poder misterioso que permite megaevolucionar a Pokémon que lleven la Megapiedra adecuada.
+745|Collar con un poder misterioso que permite megaevolucionar a Pokémon que lleven la Megapiedra adecuada.
+746|Gafas con un poder misterioso que permiten megaevolucionar a Pokémon que lleven la Megapiedra adecuada.
+747|Ancla con un poder misterioso que permite megaevolucionar a Pokémon que lleven la Megapiedra adecuada.
+748|Broche con un poder misterioso que permite megaevolucionar a Pokémon que lleven la Megapiedra adecuada.
+749|Tiara con un poder misterioso que permite megaevolucionar a Pokémon que lleven la Megapiedra adecuada.
+750|Tobillera con un poder misterioso que permite megaevolucionar a Pokémon que lleven la Megapiedra adecuada.
+751|Meteorito obtenido en el Monte Cenizo. Desprende un tenue brillo.
+752|Una de las misteriosas Megapiedras. Permite megaevolucionar a Swampert en combate.
+753|Una de las misteriosas Megapiedras. Permite megaevolucionar a Sceptile en combate.
+754|Una de las misteriosas Megapiedras. Permite megaevolucionar a Sableye en combate.
+755|Una de las misteriosas Megapiedras. Permite megaevolucionar a Altaria en combate.
+756|Una de las misteriosas Megapiedras. Permite megaevolucionar a Gallade en combate.
+757|Una de las misteriosas Megapiedras. Permite megaevolucionar a Audino en combate.
+758|Una de las misteriosas Megapiedras. Permite megaevolucionar a Metagross en combate.
+759|Una de las misteriosas Megapiedras. Permite megaevolucionar a Sharpedo en combate.
+760|Una de las misteriosas Megapiedras. Permite megaevolucionar a Slowbro en combate.
+761|Una de las misteriosas Megapiedras. Permite megaevolucionar a Steelix en combate.
+762|Una de las misteriosas Megapiedras. Permite megaevolucionar a Pidgeot en combate.
+763|Una de las misteriosas Megapiedras. Permite megaevolucionar a Glalie en combate.
+764|Una de las misteriosas Megapiedras. Permite megaevolucionar a Diancie en combate.
+765|Vasija en la que se halla confinado el poder de cierto Pokémon desde hace muchísimo tiempo.
+766|Brazalete con un poder misterioso que permite megaevolucionar a Pokémon que lleven la Megapiedra adecuada.
+767|Una de las misteriosas Megapiedras. Permite megaevolucionar a Camerupt en combate.
+768|Una de las misteriosas Megapiedras. Permite megaevolucionar a Lopunny en combate.
+769|Una de las misteriosas Megapiedras. Permite megaevolucionar a Salamence en combate.
+770|Una de las misteriosas Megapiedras. Permite megaevolucionar a Beedrill en combate.
+771|Meteorito obtenido en el Monte Cenizo. Sigue desprendiendo un tenue brillo y es ligeramente cálido al tacto.
+772|Meteorito obtenido en el Monte Cenizo. Presenta unos peculiares grabados e irradia una luz con los siete colores del arcoíris.
+773|Piedra de singulares poderes que permite megaevolucionar en combate a un Pokémon que lleve consigo una Megapiedra.
+774|Trozo de meteorito encontrado en el suelo de la Cueva Granito. Es ligeramente cálido al tacto.
+775|Flauta capaz de invocar a Latios o Latias en cualquier lugar.
+776|Cristal que confiere el Poder Z a los movimientos de tipo Normal.
+777|Cristal que confiere el Poder Z a los movimientos de tipo Fuego.
+778|Cristal que confiere el Poder Z a los movimientos de tipo Agua.
+779|Cristal que confiere el Poder Z a los movimientos de tipo Eléctrico.
+780|Cristal que confiere el Poder Z a los movimientos de tipo Planta.
+781|Cristal que confiere el Poder Z a los movimientos de tipo Hielo.
+782|Cristal que confiere el Poder Z a los movimientos de tipo Lucha.
+783|Cristal que confiere el Poder Z a los movimientos de tipo Veneno.
+784|Cristal que confiere el Poder Z a los movimientos de tipo Tierra.
+785|Cristal que confiere el Poder Z a los movimientos de tipo Volador.
+786|Cristal que confiere el Poder Z a los movimientos de tipo Psíquico.
+787|Cristal que confiere el Poder Z a los movimientos de tipo Bicho.
+788|Cristal que confiere el Poder Z a los movimientos de tipo Roca.
+789|Cristal que confiere el Poder Z a los movimientos de tipo Fantasma.
+790|Cristal que confiere el Poder Z a los movimientos de tipo Dragón.
+791|Cristal que confiere el Poder Z a los movimientos de tipo Siniestro.
+792|Cristal que confiere el Poder Z a los movimientos de tipo Acero.
+793|Cristal que confiere el Poder Z a los movimientos de tipo Hada.
+794|Cristal que confiere el Poder Z al movimiento Placaje Eléctrico de Pikachu.
+795|Una bonita chapa de color plata. Hay gente que las aprecia mucho.
+796|Una bonita chapa de color dorado, menos común que su equivalente plateada. Hay gente que las aprecia mucho.
+797|Misteriosa pulsera que transmite la fuerza física y mental del Entrenador a sus Pokémon, lo que les permite usar movimientos Z.
+798|Cristal que confiere el Poder Z al movimiento Puntada Sombría de Decidueye.
+799|Cristal que confiere el Poder Z al movimiento Lariat Oscuro de Incineroar.
+800|Cristal que confiere el Poder Z al movimiento Aria Burbuja de Primarina.
+801|Cristal que confiere el Poder Z al movimiento Furia Natural de los Tapu.
+802|Cristal que confiere el Poder Z al movimiento Robasombra de Marshadow.
+803|Cristal que confiere el Poder Z al movimiento Rayo de los Raichu de Alola.
+804|Cristal que confiere el Poder Z al movimiento Gigaimpacto de Snorlax.
+805|Cristal que confiere el Poder Z al movimiento Última Baza de Eevee.
+806|Cristal que confiere el Poder Z al movimiento Psíquico de Mew.
+807|Concentra el Poder Z en cristales que permiten a los portadores convertir sus movimientos de tipo Normal en movimientos Z.
+808|Concentra el Poder Z en cristales que permiten a los portadores convertir sus movimientos de tipo Fuego en movimientos Z.
+809|Concentra el Poder Z en cristales que permiten a los portadores convertir sus movimientos de tipo Agua en movimientos Z.
+810|Concentra el Poder Z en cristales que permiten a los portadores convertir sus movimientos de tipo Eléctrico en movimientos Z.
+811|Concentra el Poder Z en cristales que permiten a los portadores convertir sus movimientos de tipo Planta en movimientos Z.
+812|Concentra el Poder Z en cristales que permiten a los portadores convertir sus movimientos de tipo Hielo en movimientos Z.
+813|Concentra el Poder Z en cristales que permiten a los portadores convertir sus movimientos de tipo Lucha en movimientos Z.
+814|Concentra el Poder Z en cristales que permiten a los portadores convertir sus movimientos de tipo Veneno en movimientos Z.
+815|Concentra el Poder Z en cristales que permiten a los portadores convertir sus movimientos de tipo Tierra en movimientos Z.
+816|Concentra el Poder Z en cristales que permiten a los portadores convertir sus movimientos de tipo Volador en movimientos Z.
+817|Concentra el Poder Z en cristales que permiten a los portadores convertir sus movimientos de tipo Psíquico en movimientos Z.
+818|Concentra el Poder Z en cristales que permiten a los portadores convertir sus movimientos de tipo Bicho en movimientos Z.
+819|Concentra el Poder Z en cristales que permiten a los portadores convertir sus movimientos de tipo Roca en movimientos Z.
+820|Concentra el Poder Z en cristales que permiten a los portadores convertir sus movimientos de tipo Fantasma en movimientos Z.
+821|Concentra el Poder Z en cristales que permiten a los portadores convertir sus movimientos de tipo Dragón en movimientos Z.
+822|Concentra el Poder Z en cristales que permiten a los portadores convertir sus movimientos de tipo Siniestro en movimientos Z.
+823|Concentra el Poder Z en cristales que permiten a los portadores convertir sus movimientos de tipo Acero en movimientos Z.
+824|Concentra el Poder Z en cristales que permiten a los portadores convertir sus movimientos de tipo Hada en movimientos Z.
+825|Concentra el Poder Z en cristales que permiten a Pikachu convertir su Placaje Eléctrico en un movimiento Z.
+826|Concentra el Poder Z en cristales que permiten a Decidueye convertir su Puntada Sombría en un movimiento Z.
+827|Concentra el Poder Z en cristales que permiten a Incineroar convertir su Lariat Oscuro en un movimiento Z.
+828|Concentra el Poder Z en cristales que permiten a Primarina convertir su Aria Burbuja en un movimiento Z.
+829|Concentra el Poder Z en cristales que permiten a los Tapu convertir su Furia Natural en un movimiento Z.
+830|Concentra el Poder Z en cristales que permiten a Marshadow convertir su Robasombra en un movimiento Z.
+831|Concentra el Poder Z en cristales que permiten a los Raichu de Alola convertir su Rayo en un movimiento Z.
+832|Concentra el Poder Z en cristales que permiten a Snorlax convertir su Gigaimpacto en un movimiento Z.
+833|Concentra el Poder Z en cristales que permiten a Eevee convertir su Última Baza en un movimiento Z.
+834|Concentra el Poder Z en cristales que permiten a Mew convertir su Psíquico en un movimiento Z.
+835|Concentra el Poder Z en cristales que permiten a los Pikachu que llevan gorra convertir su Rayo en un movimiento Z.
+836|Cristal que confiere el Poder Z al movimiento Rayo de los Pikachu que llevan gorra.
+841|Saco para guardar ingredientes, indispensable en la Jungla Umbría para superar la prueba de Lulú.
+842|Caña fabricada por la Capitana Nereida. Permite pescar los Pokémon escondidos en las rocas sumergidas.
+843|La máscara de luchador de Royale, el Enmascarado. Muy probablemente de factura propia.
+844|Se puede canjear para organizar minijuegos en la Festi Plaza.
+845|Piedra con un misterioso brillo entregada por un Pokémon considerado como uno de los espíritus guardianes de Alola.
+846|Aumenta la Velocidad del portador si se siente intimidado.
+847|Dispositivo en el que se hallan almacenados núcleos y células de Zygarde. También le permite cambiar de forma.
+849|Una piedra peculiar que hace evolucionar a algunos Pokémon. Presenta motivos que recuerdan a los cristales de hielo.
+850|Dispositivo dotado de un teclado numérico con el que llamar a diversas Pokémonturas.
+851|Un tipo especial de Poké Ball con la que resulta difícil atrapar Pokémon.
+852|Fritura típica de Alola que cura todos los problemas de estado de un Pokémon.
+853|Néctar de ciertas flores de los Jardines de Ula-Ula, capaz de hacer cambiar de forma a una determinada especie de Pokémon.
+854|Néctar de ciertas flores de los Jardines de Melemele, capaz de hacer cambiar de forma a una determinada especie de Pokémon.
+855|Néctar de ciertas flores de los parterres de la Avenida Royale, capaz de hacer cambiar de forma a una determinada especie de Pokémon.
+856|Néctar de ciertas flores de los Jardines de Poni, capaz de hacer cambiar de forma a una determinada especie de Pokémon.
+857|Flauta que se hace sonar como muestra de gratitud hacia el Pokémon legendario del sol.
+858|Flauta que se hace sonar como muestra de gratitud hacia el Pokémon legendario de la luna.
+860|Misteriosa nota que reza: "Te espero en una habitación del motel de la Ruta 8 en Akala".
+861|Una baya que puedes lanzar a un Pokémon salvaje para que resulte bastante más fácil capturarlo.
+862|Una baya que puedes lanzar a un Pokémon salvaje para que resulte mucho más fácil capturarlo.
+863|Una baya que puedes lanzar a un Pokémon salvaje para tranquilizarlo bastante.
+864|Una baya que puedes lanzar a un Pokémon salvaje para tranquilizarlo mucho.
+865|Una baya que puedes lanzar a un Pokémon salvaje para aumentar bastante las probabilidades de conseguir un objeto tras capturarlo.
+866|Una baya que puedes lanzar a un Pokémon salvaje para aumentar mucho las probabilidades de conseguir un objeto tras capturarlo.
+872|Llave que abre las puertas del Gimnasio de Isla Canela. En su diseño predomina el color rojo.
+873|Billete necesario para embarcar en el S. S. Anne. Tiene dibujado un barco.
+874|Dispositivo que permite ver cosas que, de otra forma, resultarían invisibles para el ojo humano. Fabricado por Silph S. A.
+875|Un paquete para el Profesor Oak que te entregaron en la Tienda Pokémon de Ciudad Verde.
+876|Esta tarjeta permite abrir las puertas de la Oficina Central de Silph S. A. en Ciudad Azafrán.
+877|Unos dientes de oro que perdió el Guarda de la Zona Safari con los que tiene una sonrisa deslumbrante.
+878|Llave que permite acceder al ascensor de la Guarida del Team Rocket. Lleva grabado el símbolo del Team Rocket.
+879|Al llevarlo, prolonga la duración de los campos creados por el Pokémon en el terreno de combate mediante movimientos o su habilidad.
+880|Protege al Pokémon de los efectos que le produciría el contacto directo en combate.
+881|Aumenta la Defensa del portador si se usa cuando el terreno está cubierto por un campo eléctrico.
+882|Aumenta la Defensa Especial del portador si se usa cuando el terreno está cubierto por un campo psíquico.
+883|Aumenta la Defensa Especial del portador si se usa cuando el terreno está cubierto por un campo de niebla.
+884|Aumenta la Defensa del portador si se usa cuando el terreno está cubierto por un campo de hierba.
+885|Muelle fino y pequeño. Está algo elongado y se desconoce cuál puede ser su uso.
+886|Piedra de yeso pequeña y blanquecina encontrada en la linde de un camino.
+887|Esfera de cristal transparente en cuyo interior se pueden apreciar diferentes colores.
+888|Un pendiente que se le ha debido de caer a alguien.
+889|Cristal de colores pulido por la acción erosiva de las olas. Al tacto resulta algo áspero.
+890|Extraña hoja de color dorado. Se desconoce de qué árbol procede.
+891|Extraña hoja de color plateado. Se desconoce de qué árbol procede.
+892|Bola de barro que ha sido pulida durante tanto tiempo que su superficie ha quedado lisa y brillante.
+893|Preciosa concha de color blanco que quizá haya sido arrastrada por las corrientes marinas desde mares de regiones más cálidas.
+894|Una carta escrita en una hoja. Hay huellas de Pikachu estampadas en ella y parecen guardar algún significado.
+895|Una carta escrita en una hoja. Hay huellas de Eevee estampadas en ella y parecen guardar algún significado.
+896|Pequeño ramo de flores confeccionado con dedicación y esmero solo para ti.
+900|Colonia que atrae a los Pokémon raros durante un breve espacio de tiempo.
+901|Colonia que atrae a los Pokémon raros y cuyo efecto es algo más duradero que el de la Colonia.
+902|Colonia que atrae a los Pokémon raros y cuyo efecto es algo más duradero que el de la Supercolonia.
+903|Tentempié típico de Ciudad Plateada. Cura todos los problemas de estado de un Pokémon.
+904|Disco de datos que contiene información relativa al tipo Lucha. Permite cambiar de tipo a cierto Pokémon.
+905|Disco de datos que contiene información relativa al tipo Volador. Permite cambiar de tipo a cierto Pokémon.
+906|Disco de datos que contiene información relativa al tipo Veneno. Permite cambiar de tipo a cierto Pokémon.
+907|Disco de datos que contiene información relativa al tipo Tierra. Permite cambiar de tipo a cierto Pokémon.
+908|Disco de datos que contiene información relativa al tipo Roca. Permite cambiar de tipo a cierto Pokémon.
+909|Disco de datos que contiene información relativa al tipo Bicho. Permite cambiar de tipo a cierto Pokémon.
+910|Disco de datos que contiene información relativa al tipo Fantasma. Permite cambiar de tipo a cierto Pokémon.
+911|Disco de datos que contiene información relativa al tipo Acero. Permite cambiar de tipo a cierto Pokémon.
+912|Disco de datos que contiene información relativa al tipo Fuego. Permite cambiar de tipo a cierto Pokémon.
+913|Disco de datos que contiene información relativa al tipo Agua. Permite cambiar de tipo a cierto Pokémon.
+914|Disco de datos que contiene información relativa al tipo Planta. Permite cambiar de tipo a cierto Pokémon.
+915|Disco de datos que contiene información relativa al tipo Eléctrico. Permite cambiar de tipo a cierto Pokémon.
+916|Disco de datos que contiene información relativa al tipo Psíquico. Permite cambiar de tipo a cierto Pokémon.
+917|Disco de datos que contiene información relativa al tipo Hielo. Permite cambiar de tipo a cierto Pokémon.
+918|Disco de datos que contiene información relativa al tipo Dragón. Permite cambiar de tipo a cierto Pokémon.
+919|Disco de datos que contiene información relativa al tipo Siniestro. Permite cambiar de tipo a cierto Pokémon.
+920|Disco de datos que contiene información relativa al tipo Hada. Permite cambiar de tipo a cierto Pokémon.
+921|Cristal que confiere el Poder Z al movimiento Meteoimpacto de Solgaleo.
+922|Cristal que confiere el Poder Z al movimiento Rayo Umbrío de Lunala.
+923|Cristal que confiere el Poder Z al movimiento Géiser Fotónico de Necrozma.
+924|Cristal que confiere el Poder Z al movimiento Carantoña de Mimikyu.
+925|Cristal que confiere el Poder Z al movimiento Roca Afilada de Lycanroc.
+926|Cristal que confiere el Poder Z al movimiento Fragor Escamas de Kommo-o.
+927|Concentra el Poder Z en cristales que permiten a Solgaleo convertir su Meteoimpacto en un movimiento Z.
+928|Concentra el Poder Z en cristales que permiten a Lunala convertir su Rayo Umbrío en un movimiento Z.
+929|Cristal que permite a Necrozma, una vez fusionado con Solgaleo o Lunala, adoptar una nueva forma.
+930|Concentra el Poder Z en cristales que permiten a Mimikyu convertir su Carantoña en un movimiento Z.
+931|Concentra el Poder Z en cristales que permiten a Lycanroc convertir su Roca Afilada en un movimiento Z.
+932|Concentra el Poder Z en cristales que permiten a Kommo-o convertir su Fragor Escamas en un movimiento Z.
+933|Misteriosa pulsera que transmite la fuerza física y mental del Entrenador a sus Pokémon, lo que les permite usar movimientos Z.
+934|Pétalo prensado recibido de manos de Rika durante su prueba. El objetivo es reunir siete distintos.
+935|Pétalo prensado recibido de manos de Liam durante la prueba de Rika. El objetivo es reunir siete distintos.
+936|Pétalo prensado recibido de manos de Nereida durante la prueba de Rika. El objetivo es reunir siete distintos.
+937|Pétalo prensado recibido de manos de Kiawe durante la prueba de Rika. El objetivo es reunir siete distintos.
+938|Pétalo prensado recibido de manos de Lulú durante la prueba de Rika. El objetivo es reunir siete distintos.
+939|Pétalo prensado recibido de manos de Chris durante la prueba de Rika. El objetivo es reunir siete distintos.
+940|Pétalo prensado recibido de manos de Denio durante la prueba de Rika. El objetivo es reunir siete distintos.
+941|Flor resultante de la unión de los siete pétalos entregados por los Capitanes, símbolo de la experiencia y madurez acumuladas en tu aventura.
+942|Medalla conseguida en el Gimnasio de Kanto. Su aspecto guarda un sospechoso parecido con la medalla de otro gimnasio.
+943|Artefacto que permite fusionar a Necrozma, ávido de luz, con Solgaleo.
+944|Artefacto que permite fusionar a Necrozma, ávido de luz, con Lunala.
+945|Artefacto que permite separar a Necrozma, ávido de luz, tras su fusión con Solgaleo.
+946|Artefacto que permite separar a Necrozma, ávido de luz, tras su fusión con Lunala.
+947|Normastal Z que te entrega Liam para que lo deposites sobre el altar situado al fondo de la Cueva Sotobosque.
+948|Poké Ball que alberga un Pokémon que perdió a su Entrenador, al parecer, natural de Ula-Ula.
+949|Poder Rotom que hace que los Huevos eclosionen mucho antes.
+950|Poder Rotom que reduce a la mitad el coste de los artículos en las Tiendas Pokémon.
+951|Poder Rotom que triplica las ganancias obtenidas en combate.
+952|Poder Rotom que incrementa ligeramente los Puntos de Experiencia obtenidos en combate.
+953|Poder Rotom que hace que el grado de amistad de los Pokémon del equipo aumente más rápido.
+954|Poder Rotom que aumenta la probabilidad de encontrar Pokémon salvajes de nivel alto durante un tiempo determinado.
+955|Poder Rotom que permite evitar por completo los encuentros con Pokémon salvajes durante un tiempo determinado.
+956|Poder Rotom que restaura todos los PS de los Pokémon de tu equipo que estén combatiendo.
+957|Poder Rotom que restaura todos los PP de los Pokémon de tu equipo que estén combatiendo.
+958|Poder Rotom que hace aumentar las características de los Pokémon de tu equipo que estén combatiendo.
+959|Poder Rotom que aumenta mucho la probabilidad de capturar al Pokémon salvaje al que te estés enfrentando.
+960|Caramelo energético que aumenta los PS máximos del Pokémon.
+961|Caramelo energético que aumenta el Ataque del Pokémon.
+962|Caramelo energético que aumenta la Defensa del Pokémon.
+963|Caramelo energético que aumenta el Ataque Especial del Pokémon.
+964|Caramelo energético que aumenta la Defensa Especial del Pokémon.
+965|Caramelo energético que aumenta la Velocidad del Pokémon.
+966|Caramelo energético grande que aumenta los PS máximos de un Pokémon de Nv. 30 o superior.
+967|Caramelo energético grande que aumenta el Ataque de un Pokémon de Nv. 30 o superior.
+968|Caramelo energético grande que aumenta la Defensa de un Pokémon de Nv. 30 o superior.
+969|Caramelo energético grande que aumenta el Ataque Especial de un Pokémon de Nv. 30 o superior.
+970|Caramelo energético grande que aumenta la Defensa Especial de un Pokémon de Nv. 30 o superior.
+971|Caramelo energético grande que aumenta la Velocidad de un Pokémon de Nv. 30 o superior.
+972|Caramelo energético enorme que aumenta los PS máximos de un Pokémon de Nv. 60 o superior.
+973|Caramelo energético enorme que aumenta el Ataque de un Pokémon de Nv. 60 o superior.
+974|Caramelo energético enorme que aumenta la Defensa de un Pokémon de Nv. 60 o superior.
+975|Caramelo energético enorme que aumenta el Ataque Especial de un Pokémon de Nv. 60 o superior.
+976|Caramelo energético enorme que aumenta la Defensa Especial de un Pokémon de Nv. 60 o superior.
+977|Caramelo energético enorme que aumenta la Velocidad de un Pokémon de Nv. 60 o superior.
+978|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+979|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+980|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+981|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+982|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+983|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+984|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+985|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+986|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+987|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+988|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+989|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+990|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+991|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+992|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+993|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+994|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+995|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+996|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+997|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+998|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+999|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1000|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1001|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1002|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1003|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1004|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1005|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1006|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1007|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1008|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1009|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1010|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1011|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1012|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1013|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1014|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1015|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1016|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1017|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1018|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1019|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1020|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1021|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1022|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1023|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1024|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1025|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1026|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1027|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1028|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1029|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1030|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1031|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1032|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1033|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1034|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1035|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1036|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1037|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1038|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1039|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1040|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1041|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1042|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1043|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1044|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1045|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1046|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1047|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1048|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1049|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1050|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1051|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1052|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1053|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1054|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1055|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1056|Caramelo energético que aumenta todas las características de ciertos Pokémon.
+1057|Caramelo energético que aumenta todas las características de cierto Pokémon.
+1074|Una carta de recomendación necesaria para participar en el desafío de los gimnasios.
+1075|Permite acceder en todo momento a tus Cajas del PC de los Centros Pokémon para dejar o sacar Pokémon.
+1076|Piedra de poder misterioso hallada en la región de Galar. Se dice que quien encuentra una verá realizados sus sueños.
+1077|Si lleva engarzada una Estrella Deseo y el portador se halla junto a un nodo energético, reacciona emitiendo una luz y permite dinamaxizar Pokémon.
+1080|Sirve para pescar Pokémon salvajes en todo tipo de cuerpos de agua.
+1081|Una bicicleta en la que puede activarse el turbo, al llevar al Pokémon Rotom incorporado en el motor.
+1084|Un ingrediente para cocinar en el campamento. Si te apetece disfrutar de su delicioso sabor, basta con hervirlas.
+1085|Un ingrediente para cocinar en el campamento. Las conservas de Darren son muy apreciadas por todo Galar.
+1086|Un ingrediente para cocinar en el campamento. Las conservas de Bach son muy apreciadas por todo Galar.
+1087|Un ingrediente para cocinar en el campamento. Al estofar las habas en la salsa, esta absorbe parte de su dulzor.
+1088|Un ingrediente para cocinar en el campamento. No hay placer mayor que usar el pan para rebañar la salsa que queda en el plato.
+1089|Un ingrediente para cocinar en el campamento. Estos fideos de harina de trigo combinan inesperadamente bien con el curri.
+1090|Un ingrediente para cocinar en el campamento. Los distintos tipos de setas aportan diferentes texturas al curri.
+1091|Un ingrediente para cocinar en el campamento. Las colas de Slowpoke siempre vuelven a crecer al poco de desprenderse.
+1092|Un ingrediente para cocinar en el campamento. No se sabe si este es el tipo de verdura que le gusta a Farfetch’d.
+1093|Un ingrediente para cocinar en el campamento. Es brillante y tiene una forma perfecta.
+1094|Un ingrediente para cocinar en el campamento. Los jugos del hueso dan un profundo sabor a la salsa.
+1095|Un ingrediente para cocinar en el campamento. Las patatas contrarrestan el picante y suavizan el plato.
+1096|Un ingrediente para cocinar en el campamento. Unas hierbas que aportan color y aroma a la salsa.
+1097|Un ingrediente para cocinar en el campamento. Una mezcla muy sana de varios tipos de verduras.
+1098|Un ingrediente para cocinar en el campamento. A medida que pasa el tiempo se van volviendo más aceitosas.
+1099|Un ingrediente para cocinar en el campamento. Con tan solo uno de estos huevos se consigue un plato gourmet.
+1100|Este kit tiene todo lo necesario para montar una tienda de campaña y cocinar, ya sea en el Área Silvestre o en zonas de acampada.
+1103|Cuenta una antigua leyenda que un valiente héroe blandió esta espada para hacer frente a un cataclismo, pero ahora está oxidada y en un estado lamentable.
+1104|Cuenta una antigua leyenda que un valiente héroe asió este escudo para hacer frente a un cataclismo, pero ahora está oxidado y en un estado lamentable.
+1105|Parte del fósil de un Pokémon prehistórico que surcaba los cielos. Su apariencia sigue siendo una incógnita.
+1106|Parte del fósil de un Pokémon prehistórico que habitaba en el mar. Su apariencia sigue siendo una incógnita.
+1107|Parte del fósil de un Pokémon prehistórico que habitaba en tierra firme. Su aspecto sigue siendo una incógnita.
+1108|Parte del fósil de un Pokémon prehistórico que habitaba en el mar. Su apariencia sigue siendo una incógnita.
+1109|Figura de caramelo con forma de fresa. Al dárselo a Milcery, se pone a girar rebosante de alegría.
+1110|Figura de caramelo con forma de corazón. Al dárselo a Milcery, se pone a girar rebosante de alegría.
+1111|Figura de caramelo con forma de baya. Al dárselo a Milcery, se pone a girar rebosante de alegría.
+1112|Figura de caramelo con forma de trébol. Al dárselo a Milcery, se pone a girar rebosante de alegría.
+1113|Figura de caramelo con forma de flor. Al dárselo a Milcery, se pone a girar rebosante de alegría.
+1114|Figura de caramelo con forma de estrella. Al dárselo a Milcery, se pone a girar rebosante de alegría.
+1115|Figura de caramelo con forma de lazo. Al dárselo a Milcery, se pone a girar rebosante de alegría.
+1116|Curiosa manzana, de sabor particularmente dulce, que hace evolucionar a determinadas especies de Pokémon.
+1117|Curiosa manzana, de sabor particularmente ácido, que hace evolucionar a determinadas especies de Pokémon.
+1118|Aumenta el Ataque Especial al emplear un movimiento que se sirva del sonido.
+1119|Si el portador ve reducidas sus características, será sustituido por otro Pokémon del equipo.
+1120|Anula los efectos de aquello que se coloca a los pies del Pokémon para obstaculizarlo, como las trampas.
+1121|Aumenta mucho la Velocidad cuando el Pokémon yerra el movimiento debido a la precisión.
+1122|Si lo lleva un Pokémon, reduce la Velocidad cuando se usa Espacio Raro.
+1123|El portador se vuelve invulnerable a los efectos de la lluvia y del sol.
+1124|Caramelo energético que aumenta ligerísimamente los Puntos de Experiencia de un Pokémon.
+1125|Caramelo energético que aumenta ligeramente los Puntos de Experiencia de un Pokémon.
+1126|Caramelo energético que aumenta los Puntos de Experiencia de un Pokémon.
+1127|Caramelo energético que aumenta bastante los Puntos de Experiencia de un Pokémon.
+1128|Caramelo energético que aumenta mucho los Puntos de Experiencia de un Pokémon.
+1129|Caramelo energético que sube el nivel Dinamax de un Pokémon. Cuanto más alto sea el nivel, más aumentarán sus PS al dinamaxizarse.
+1130|Baile frenético que aumenta mucho el Ataque.
+1131|Salta sobre el objetivo con todo su peso y puede llegar a paralizarlo.
+1132|Ataca con una gran ráfaga de fuego que puede causar quemaduras.
+1133|Lanza una gran masa de agua a presión para atacar.
+1134|Inunda el terreno de combate con una ola gigante.
+1135|Rayo de hielo que puede llegar a congelar.
+1136|Tormenta de hielo que puede llegar a congelar.
+1137|Patada baja que derriba al oponente. Cuanto más pesa el objetivo, más daño le causa.
+1138|Potente ataque eléctrico que puede paralizar al objetivo.
+1139|Un poderoso rayo que daña al objetivo y puede paralizarlo.
+1140|Un terremoto que afecta a todos los Pokémon que estén a su alrededor.
+1141|Fuerte ataque telequinético que puede bajar la Defensa Especial del objetivo.
+1142|Relaja el cuerpo para ganar mucha Velocidad.
+1143|Concentra energía para aumentar las posibilidades de asestar un golpe crítico.
+1144|Mueve un dedo y estimula su cerebro para usar al azar casi cualquier movimiento.
+1145|Llama intensa que chamusca y puede causar quemaduras.
+1146|Embiste con un gran impulso que puede llegar a amedrentar.
+1147|El usuario olvida sus preocupaciones y aumenta mucho la Defensa Especial.
+1148|Restaura al usuario la mitad del daño causado al objetivo.
+1149|Ataque triple que puede paralizar, quemar o congelar al objetivo.
+1150|Utiliza parte de los PS propios para crear un sustituto que actúa como señuelo.
+1151|Ataque desesperado que causa más daño cuantos menos PS tenga el usuario.
+1152|Arroja residuos al objetivo. Puede llegar a envenenar.
+1153|Esparce púas alrededor del equipo rival que hieren a los Pokémon rivales que entran en combate.
+1154|Ataca de dos a tres turnos y acaba confundiendo al agresor.
+1155|Crea una onda psíquica que causa daño físico al objetivo.
+1156|Resiste cualquier ataque y deja al menos 1 PS. Puede fallar si se usa repetidamente.
+1157|Mientras duerme, usa uno de sus movimientos elegido al azar.
+1158|Violenta embestida con cuernos imponentes.
+1159|Cambia el puesto con otro miembro del equipo y le pasa los cambios de características.
+1160|El objetivo repite su último movimiento durante tres turnos.
+1161|Ataca con una cola férrea y puede bajar la Defensa del objetivo.
+1162|Tritura con afilados colmillos y puede bajar la Defensa del objetivo.
+1163|Lanza una bola oscura que puede bajar la Defensa Especial del objetivo.
+1164|Concentra energía psíquica para golpear al objetivo dos turnos después.
+1165|Ataca de forma alborotada durante tres turnos. Mantiene despiertos a todos.
+1166|Provoca un viento abrasador que puede quemar al objetivo.
+1167|Enfurece al objetivo para que solo use movimientos de ataque durante tres turnos.
+1168|Engaña al objetivo desprevenido e intercambia objetos.
+1169|Ataque de gran potencia, pero que reduce el Ataque y la Defensa del agresor.
+1170|Usa el poder psíquico para intercambiar habilidades con el objetivo.
+1171|Patada que suele ser un golpe crítico y puede causar quemaduras.
+1172|Grito desgarrador que inflige daño al objetivo.
+1173|Ataque en toda regla que baja mucho el Ataque Especial de quien lo usa.
+1174|Sube la Defensa y la Defensa Especial propias con energía mística.
+1175|Ataque con agua lodosa que puede bajar la Precisión del equipo rival.
+1176|Fortalece el cuerpo como si fuera de hierro y sube mucho la Defensa.
+1177|Araña al objetivo con garras afiladas.
+1178|Robustece el cuerpo para subir el Ataque y la Defensa.
+1179|Aumenta la concentración y calma el espíritu para subir el Ataque Especial y la Defensa Especial.
+1180|Acuchilla con una hoja fina. Suele dar un golpe crítico.
+1181|Danza mística que sube el Ataque y la Velocidad.
+1182|Embiste al objetivo con un potente ataque giratorio. Cuanto más lento es el usuario, más daño causa.
+1183|Lucha abiertamente contra el objetivo sin protegerse. También reduce la Defensa y la Defensa Especial del usuario.
+1184|Lanza una trampa de púas tóxicas a los pies del objetivo. El veneno afecta a los Pokémon oponentes que entran en combate.
+1185|El Pokémon se cubre de llamas y carga contra el objetivo, aunque él también recibe daño. Puede quemar.
+1186|Libera, desde su interior, una inmensa descarga de aura. Es infalible.
+1187|Pincha al objetivo con un tentáculo o brazo envenenado. Puede llegar a envenenar al objetivo.
+1188|Libera una horrible aura llena de malos pensamientos que puede amedrentar al objetivo.
+1189|Lanza al objetivo una descarga de semillas explosivas desde arriba.
+1190|Cruza las guadañas o las garras para atacar al objetivo como si fueran unas tijeras.
+1191|El usuario crea una onda sónica dañina moviendo su cuerpo que también puede disminuir la Defensa Especial del objetivo.
+1192|Abre mucho la boca y libera una onda de choque que ataca al objetivo.
+1193|Ataca con un rayo de luz que centellea como si lo formaran miles de joyas.
+1194|Agudiza la concentración mental y libera su poder. Puede disminuir la Defensa Especial del objetivo.
+1195|Aúna fuerzas de la naturaleza y libera su ataque. Puede disminuir la Defensa Especial del objetivo.
+1196|Pliega sus alas y ataca con un vuelo rasante. El Pokémon que lo usa también resulta seriamente dañado.
+1197|La tierra a los pies del objetivo erupciona violentamente. Puede disminuir la Defensa Especial del objetivo.
+1198|Estimula su cerebro pensando en cosas malas. Aumenta mucho el Ataque Especial.
+1199|Concentra su energía psíquica en la cabeza para golpear. Puede hacer que el objetivo se amedrente.
+1200|El usuario concentra toda la luz del cuerpo y la libera. Puede bajar la Defensa Especial del objetivo.
+1201|Envuelve al objetivo con una lluvia de hojas afiladas, pero reduce mucho su Ataque Especial.
+1202|El usuario agita violentamente sus lianas o tentáculos para golpear al objetivo.
+1203|Lanza contra el objetivo basura asquerosa y puede envenenarlo.
+1204|Ataca con su dura cabeza de hierro. Puede hacer que el objetivo se amedrente.
+1205|Clava piedras muy afiladas al objetivo. Suele ser crítico.
+1206|Una trampa de rocas que flota en el aire y daña a los objetivos que entran en combate.
+1207|Enreda al objetivo con hierba y lo derriba. Cuanto más pesado es el objetivo, más daño inflige.
+1208|Una onda tóxica que daña a los Pokémon de alrededor. Puede envenenar.
+1209|El usuario golpea con todo su cuerpo. Cuanto mayor sea su peso comparado con el del objetivo, más daño causará.
+1210|Lanza una bola eléctrica. Cuanto mayor sea la Velocidad del usuario en comparación con la del objetivo, mayor será el daño causado.
+1211|El usuario emplea la fuerza del objetivo para atacarlo. Cuanto mayor es el Ataque del objetivo, más daño provoca.
+1212|Acumula poder para golpear. Cuanto más suban las características del usuario, mayor será el daño.
+1213|Extraño poder que intercambia la posición del usuario con la de un aliado sobre el terreno de combate.
+1214|Ataca arrojando agua hirviendo al objetivo. Puede causar quemaduras.
+1215|Quien lo usa se concentra y potencia su Ataque y su Ataque Especial.
+1216|Carga eléctrica muy potente que también hiere ligeramente a quien la usa.
+1217|El usuario golpea usando su cuerpo como un taladro. Suele ser crítico.
+1218|El usuario ataca con su cuerpo ardiente. Cuanto mayor sea su peso comparado con el del objetivo, más daño causará.
+1219|Golpea al objetivo con un fuerte torbellino que envuelve al rival y puede confundirlo.
+1220|El Pokémon que lo usa le hace cucamonas al objetivo y lo ataca. Puede disminuir el Ataque del objetivo.
+1221|Impregna a su objetivo con un líquido venenoso que disminuye el Ataque, el Ataque Especial y la Velocidad. Solo afecta a Pokémon ya envenenados.
+1222|Inflige daño a los oponentes con una potente luz.
+1223|Gira sobre sí mismo y golpea al oponente con ambos brazos. Ignora los cambios en las características del objetivo.
+1224|Asesta un golpe devastador usando todo su cuerpo.
+1225|Inflige al rival un dolor tan abrumador que le impide utilizar durante dos turnos ataques que se sirven del sonido.
+1226|Ataca al oponente con una bola explosiva. Si esta alcanza a un aliado, le hará recuperar PS.
+1227|Ataca a sus rivales con poderes psíquicos que además destruyen barreras como Pantalla de Luz y Reflejo.
+1228|Ataca golpeando gracias a la fuerza del agua. También puede reducir la Defensa del objetivo.
+1229|El usuario usa el cuerpo para lanzar su ataque e infligir un daño directamente proporcional a su Defensa.
+1230|Un puñetazo de gran potencia.
+1231|Cuando un Pokémon percibe su aroma, aumenta con más facilidad su Ataque, en detrimento de su Defensa.
+1232|Cuando un Pokémon percibe su aroma, aumenta con más facilidad su Ataque, en detrimento de su Ataque Especial.
+1233|Cuando un Pokémon percibe su aroma, aumenta con más facilidad su Ataque, en detrimento de su Defensa Especial.
+1234|Cuando un Pokémon percibe su aroma, aumenta con más facilidad su Ataque, en detrimento de su Velocidad.
+1235|Cuando un Pokémon percibe su aroma, aumenta con más facilidad su Defensa, en detrimento de su Ataque.
+1236|Cuando un Pokémon percibe su aroma, aumenta con más facilidad su Defensa, en detrimento de su Ataque Especial.
+1237|Cuando un Pokémon percibe su aroma, aumenta con más facilidad su Defensa, en detrimento de su Defensa Especial.
+1238|Cuando un Pokémon percibe su aroma, aumenta con más facilidad su Defensa, en detrimento de su Velocidad.
+1239|Cuando un Pokémon percibe su aroma, aumenta con más facilidad su Ataque Especial, en detrimento de su Ataque.
+1240|Cuando un Pokémon percibe su aroma, aumenta con más facilidad su Ataque Especial, en detrimento de su Defensa.
+1241|Cuando un Pokémon percibe su aroma, aumenta con más facilidad su Ataque Especial, en detrimento de su Defensa Especial.
+1242|Cuando un Pokémon percibe su aroma, aumenta con más facilidad su Ataque Especial, en detrimento de su Velocidad.
+1243|Cuando un Pokémon percibe su aroma, aumenta con más facilidad su Defensa Especial, en detrimento de su Ataque.
+1244|Cuando un Pokémon percibe su aroma, aumenta con más facilidad su Defensa Especial, en detrimento de su Defensa.
+1245|Cuando un Pokémon percibe su aroma, aumenta con más facilidad su Defensa Especial, en detrimento de su Ataque Especial.
+1246|Cuando un Pokémon percibe su aroma, aumenta con más facilidad su Defensa Especial, en detrimento de su Velocidad.
+1247|Cuando un Pokémon percibe su aroma, aumenta con más facilidad su Velocidad, en detrimento de su Ataque.
+1248|Cuando un Pokémon percibe su aroma, aumenta con más facilidad su Velocidad, en detrimento de su Defensa.
+1249|Cuando un Pokémon percibe su aroma, aumenta con más facilidad su Velocidad, en detrimento de su Ataque Especial.
+1250|Cuando un Pokémon percibe su aroma, aumenta con más facilidad su Velocidad, en detrimento de su Defensa Especial.
+1251|Cuando un Pokémon percibe su aroma, su Ataque, Defensa, Velocidad, Defensa Especial y Ataque Especial crecen de forma uniforme.
+1252|Al lanzarlo en un nido Pokémon, aparece un Pokémon Dinamax.
+1253|Curiosa tetera que hace evolucionar a determinadas especies de Pokémon. Pese a estar agrietada, sirve un té exquisito.
+1254|Curiosa tetera que hace evolucionar a determinadas especies de Pokémon. Pese a estar rota, sirve un té exquisito.
+1255|Curiosos auriculares que permiten ajustar de forma independiente el volumen de distintos elementos sonoros.
+1256|Un ingrediente para cocinar en el campamento. La jugosa fruta aporta un toque tropical al plato.
+1257|Un ingrediente para cocinar en el campamento. El queso derretido aporta intensidad a la salsa.
+1258|Un ingrediente para cocinar en el campamento. Es una mezcla picante de más de 50 tipos de especias.
+1259|Un ingrediente para cocinar en el campamento. La nata da un toque dulce a la salsa picante del curri.
+1260|Un ingrediente para cocinar en el campamento. Este curri precocinado nunca falla.
+1261|Un ingrediente para cocinar en el campamento. Muy popular por el dulzor refinado que aporta al plato.
+1262|Un ingrediente para cocinar en el campamento. El sabor reconfortante de estos fideos casa inesperadamente bien con la salsa de curri.
+1263|Un ingrediente para cocinar en el campamento. Una apuesta segura, perfecta para esos momentos de duda.
+1264|Un ingrediente para cocinar en el campamento. Una pizca de esta extraña especia basta para elaborar un curri gigantesco.
+1265|Al lanzar unos cuantos a un nido Pokémon, es posible que aparezca algún Pokémon Dinamax.
+1266|Combinada con el Pokémon Rotom, esta bicicleta te permite usar un turbo y también desplazarte por encima del agua.
+1267|Aumenta la probabilidad de lograr una captura crítica al llevarlo equipado. Curiosamente, apenas vibra.
+1269|Carta de aspecto desgastado entregada por una niña y con un chico como destinatario.
+1270|Un autógrafo firmado por todos los miembros de los Maximizers, el grupo musical más carismático de Galar.
+1271|Publicación de la Profesora Sonia que trata de forma amena los recientes descubrimientos sobre las leyendas de la región de Galar.
+1278|Un catálogo de los artilugios favoritos de Rotom que le permite introducirse o salir fácilmente de los mismos.
+1279|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1280|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1281|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1282|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1283|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1284|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1285|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1286|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1287|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1288|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1289|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1290|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1291|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1292|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1293|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1294|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1295|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1296|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1297|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1298|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1299|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1300|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1301|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1302|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1303|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1304|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1305|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1306|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1307|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1308|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1309|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1310|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1311|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1312|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1313|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1314|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1315|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1316|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1317|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1318|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1319|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1320|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1321|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1322|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1323|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1324|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1325|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1326|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1327|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1328|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1329|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1330|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1331|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1332|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1333|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1334|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1335|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1336|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1337|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1338|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1339|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1340|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1341|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1342|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1343|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1344|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1345|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1346|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1347|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1348|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1349|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1350|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1351|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1352|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1353|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1354|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1355|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1356|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1357|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1358|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1359|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1360|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1361|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1362|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1363|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1364|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1365|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1366|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1367|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1368|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1369|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1370|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1371|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1372|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1373|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1374|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1375|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1376|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1377|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1378|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1379|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1380|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1381|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1382|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1383|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1384|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1385|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1386|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1387|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1388|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1389|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1390|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1391|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1392|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1393|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1394|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1395|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1396|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1397|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1398|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1399|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1400|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1401|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1402|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1403|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1404|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1405|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1406|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1407|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1408|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1409|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1410|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1411|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1412|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1413|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1414|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1415|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1416|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1417|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1418|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1419|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1420|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1421|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1422|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1423|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1424|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1425|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1426|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1427|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1428|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1429|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1430|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1431|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1432|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1433|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1434|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1435|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1436|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1437|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1438|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1439|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1440|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1441|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1442|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1443|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1444|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1445|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1446|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1447|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1448|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1449|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1450|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1451|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1452|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1453|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1454|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1455|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1456|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1457|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1458|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1459|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1460|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1461|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1462|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1463|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1464|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1465|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1466|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1467|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1468|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1469|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1470|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1471|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1472|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1473|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1474|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1475|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1476|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1477|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1478|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1479|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1480|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1481|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1482|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1483|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1484|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1485|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1486|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1487|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1488|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1489|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1490|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1491|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1492|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1493|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1494|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1495|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1496|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1497|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1498|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1499|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1500|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1501|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1502|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1503|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1504|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1505|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1506|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1507|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1508|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1509|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1510|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1511|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1512|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1513|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1514|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1515|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1516|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1517|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1518|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1519|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1520|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1521|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1522|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1523|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1524|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1525|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1526|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1527|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1528|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1529|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1530|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1531|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1532|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1533|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1534|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1535|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1536|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1537|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1538|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1539|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1540|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1541|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1542|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1543|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1544|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1545|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1546|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1547|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1548|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1549|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1550|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1551|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1552|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1553|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1554|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1555|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1556|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1557|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1558|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1559|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1560|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1561|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1562|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1563|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1564|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1565|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1566|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1567|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1568|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1569|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1570|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1571|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1572|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1573|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1574|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1575|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1576|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1577|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1578|Posibilita la aparición de [VAR (0000)] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado.
+1579|Panal construido por Vespiquen Dinamax cuya densa miel suaviza el sabor de la Maxisopa. También tiene el mismo efecto que un Revivir Máximo.
+1580|Una seta capaz de cambiar el aspecto de los Pokémon al dinamaxizarse. Aumenta todas las características de un Pokémon si se usa en combate.
+1581|Una rama de un árbol llamado Galanuez, que crece en determinadas zonas de Galar. Con ella se pueden crear accesorios para cierto Pokémon.
+1582|Un brazalete hecho de Ramas de Galanuez trenzadas. Los Slowpoke de Galar se ponen contentísimos si lo reciben como regalo.
+1583|Una tarjeta que aumenta la selección de artículos disponibles en las tiendas y permite elegir entre una mayor variedad de peinados en las peluquerías.
+1584|Un pase que permite viajar hasta la Isla de la Armadura. Hay que mostrárselo al empleado de la estación de Pueblo Par.
+1585|Gracias al poder de Rotom, esta bicicleta permite usar el turbo y desplazarse sobre el agua. Tiene un color blanco centelleante.
+1586|Gracias al poder de Rotom, esta bicicleta permite usar el turbo y desplazarse sobre el agua. De color negro y con una fulgurante estela rojinegra.
+1587|Amuleto que aumenta los Puntos de Experiencia que reciben los Pokémon. Su interior contiene una especie de mecanismo.
+1588|Un mineral poco común que se encuentra en la Isla de la Armadura. Tal vez ocurra algo bueno al dárselo a un coleccionista de dicha isla.
+1589|Misterioso y particular amuleto que aumenta las posibilidades de encontrar Pokémon con emblemas.
+1590|Riendas que se entregaron como ofrenda al rey. Potencian los poderes de Calyrex para mejorar las cosechas y le permiten unirse con su amado corcel.
+1591|Riendas que se entregaron como ofrenda al rey. Permiten el entendimiento mutuo entre aquellos que están unidos y separan a Calyrex de su amado corcel.
+1592|Una corona hecha de Ramas de Galanuez trenzadas. Los Slowpoke de Galar se ponen contentísimos cuando la llevan puesta.
+1593|Una nota escrita por Peony acerca de la leyenda del Rey de las Cosechas. Lleva adjunta una vieja fotografía.
+1594|Una nota escrita por Peony acerca de la leyenda de los gigantes. Contiene unas ilustraciones muy particulares.
+1595|Una nota escrita por Peony acerca de la leyenda de las aves legendarias. Contiene una ilustración muy particular.
+1596|Una extraña nota que se le cayó a Peony. Tiene pegada una foto del Supernido Dinamax en la que se ve una cavidad luminosa.
+1597|Un pase que permite viajar hasta las Nieves de la Corona. Hay que mostrárselo al empleado de la estación de Pueblo Par.
+1598|Un misterioso objeto hecho de madera. Las marcas que presenta parecen indicar que no está completo, como si formase parte de algo.
+1599|Un pétalo recibido del Rey de las Cosechas. Emite una luz tenue.
+1600|Parte de la crin de Glastrier, el amado corcel del Rey de las Cosechas. Es flexible y resistente.
+1601|Parte de la crin de Spectrier, el amado corcel del Rey de las Cosechas. Es suave al tacto.
+1602|Una zanahoria cultivada en un huerto rebosante de nieve. Es la hortaliza preferida del amado corcel del Rey de las Cosechas.
+1603|Una zanahoria cultivada en un huerto sombrío. Es la hortaliza preferida del amado corcel del Rey de las Cosechas.
+1604|Un extraño mineral que se encuentra en el Supernido Dinamax. Tal vez ocurra algo bueno al dárselo a un coleccionista de las Nieves de la Corona.
+1605|Semillas para plantar en un huerto. Permiten obtener un tipo u otro de zanahoria en función del lugar elegido para su cultivo.
+1606|Parche que permite cambiar la habilidad normal de un Pokémon a otra menos común.
+1607|Correas elaboradas con un tejido que brilla bajo la luz. En el pasado, los humanos las entregaban como ofrenda al Rey de las Cosechas en señal de gratitud.

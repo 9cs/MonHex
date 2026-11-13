@@ -1,0 +1,13 @@
+build/
+*.elf
+*.nro
+*.nacp
+*.map
+romfs/i18n/
+romfs/personal/
+lib/pkhex-sprites/
+romfs/sprites/
+lib/pokeapi-sprites/
+romfs/home/
+romfs/types/
+romfs/items/*.png
