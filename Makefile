@@ -40,7 +40,7 @@ include $(DEVKITPRO)/libnx/switch_rules
 TARGET		:=	monhex
 APP_TITLE	:=	MonHex
 APP_AUTHOR	:=	dantton
-APP_VERSION	:=	0.1.0
+APP_VERSION	:=	1.0.0
 BUILD		:=	build
 PKSMCORE	:=	lib/PKSM-Core
 SOURCES		:=	source source/ui \
